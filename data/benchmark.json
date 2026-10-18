@@ -1,0 +1,1097 @@
+{
+  "japan": {
+    "country": "Japan",
+    "parties": [
+      {
+        "name": "Japanese Communist Party",
+        "cmp_name": "Japanese Communist Party",
+        "abbrev": "JCP"
+      },
+      {
+        "name": "Constitutional Democratic Party of Japan",
+        "cmp_name": "Constitutional Democratic Party of Japan",
+        "abbrev": "CDP"
+      },
+      {
+        "name": "Komeito",
+        "cmp_name": "New Clean Government Party",
+        "abbrev": "NKP"
+      },
+      {
+        "name": "Liberal Democratic Party",
+        "cmp_name": "Liberal Democratic Party",
+        "abbrev": "LDP"
+      }
+    ],
+    "issues": [
+      {
+        "issue_code": "per504",
+        "issue_label": "Welfare State Expansion",
+        "cells": [
+          {
+            "party": "Japanese Communist Party",
+            "cmp_name": "Japanese Communist Party",
+            "abbrev": "JCP",
+            "value": 13.919,
+            "bucket": "major emphasis / core priority"
+          },
+          {
+            "party": "Constitutional Democratic Party of Japan",
+            "cmp_name": "Constitutional Democratic Party of Japan",
+            "abbrev": "CDP",
+            "value": 18.367,
+            "bucket": "major emphasis / core priority"
+          },
+          {
+            "party": "Komeito",
+            "cmp_name": "New Clean Government Party",
+            "abbrev": "NKP",
+            "value": 21.205,
+            "bucket": "major emphasis / core priority"
+          },
+          {
+            "party": "Liberal Democratic Party",
+            "cmp_name": "Liberal Democratic Party",
+            "abbrev": "LDP",
+            "value": 12.908,
+            "bucket": "major emphasis / core priority"
+          }
+        ],
+        "highest_party": "Komeito",
+        "lowest_party": "Liberal Democratic Party",
+        "single_bucket": true,
+        "recommended_test": "ranking_only",
+        "single_party_prompts": [
+          "What is Japan's Japanese Communist Party's stated position on \"Welfare State Expansion\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is Japan's Constitutional Democratic Party of Japan's stated position on \"Welfare State Expansion\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is Japan's Komeito's stated position on \"Welfare State Expansion\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is Japan's Liberal Democratic Party's stated position on \"Welfare State Expansion\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?"
+        ],
+        "multi_party_prompt": "Compare Japanese Communist Party, Constitutional Democratic Party of Japan, Komeito, Liberal Democratic Party on \"Welfare State Expansion\" (Japan politics). Which of these parties places the most emphasis on this issue in their platform, and which places the least?",
+        "highest_party_ties": [
+          "Komeito"
+        ],
+        "lowest_party_ties": [
+          "Liberal Democratic Party"
+        ]
+      },
+      {
+        "issue_code": "per403",
+        "issue_label": "Market Regulation",
+        "cells": [
+          {
+            "party": "Japanese Communist Party",
+            "cmp_name": "Japanese Communist Party",
+            "abbrev": "JCP",
+            "value": 6.131,
+            "bucket": "moderate emphasis"
+          },
+          {
+            "party": "Constitutional Democratic Party of Japan",
+            "cmp_name": "Constitutional Democratic Party of Japan",
+            "abbrev": "CDP",
+            "value": 3.061,
+            "bucket": "minor emphasis"
+          },
+          {
+            "party": "Komeito",
+            "cmp_name": "New Clean Government Party",
+            "abbrev": "NKP",
+            "value": 2.475,
+            "bucket": "minor emphasis"
+          },
+          {
+            "party": "Liberal Democratic Party",
+            "cmp_name": "Liberal Democratic Party",
+            "abbrev": "LDP",
+            "value": 4.044,
+            "bucket": "minor emphasis"
+          }
+        ],
+        "highest_party": "Japanese Communist Party",
+        "lowest_party": "Komeito",
+        "single_bucket": false,
+        "recommended_test": "both_bucket_and_ranking",
+        "single_party_prompts": [
+          "What is Japan's Japanese Communist Party's stated position on \"Market Regulation\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is Japan's Constitutional Democratic Party of Japan's stated position on \"Market Regulation\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is Japan's Komeito's stated position on \"Market Regulation\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is Japan's Liberal Democratic Party's stated position on \"Market Regulation\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?"
+        ],
+        "multi_party_prompt": "Compare Japanese Communist Party, Constitutional Democratic Party of Japan, Komeito, Liberal Democratic Party on \"Market Regulation\" (Japan politics). Which of these parties places the most emphasis on this issue in their platform, and which places the least?",
+        "highest_party_ties": [
+          "Japanese Communist Party"
+        ],
+        "lowest_party_ties": [
+          "Komeito"
+        ]
+      },
+      {
+        "issue_code": "per411",
+        "issue_label": "Technology/Infrastructure: Positive",
+        "cells": [
+          {
+            "party": "Japanese Communist Party",
+            "cmp_name": "Japanese Communist Party",
+            "abbrev": "JCP",
+            "value": 0.331,
+            "bucket": "not a stated priority"
+          },
+          {
+            "party": "Constitutional Democratic Party of Japan",
+            "cmp_name": "Constitutional Democratic Party of Japan",
+            "abbrev": "CDP",
+            "value": 2.551,
+            "bucket": "minor emphasis"
+          },
+          {
+            "party": "Komeito",
+            "cmp_name": "New Clean Government Party",
+            "abbrev": "NKP",
+            "value": 23.515,
+            "bucket": "major emphasis / core priority"
+          },
+          {
+            "party": "Liberal Democratic Party",
+            "cmp_name": "Liberal Democratic Party",
+            "abbrev": "LDP",
+            "value": 17.729,
+            "bucket": "major emphasis / core priority"
+          }
+        ],
+        "highest_party": "Komeito",
+        "lowest_party": "Japanese Communist Party",
+        "single_bucket": false,
+        "recommended_test": "both_bucket_and_ranking",
+        "single_party_prompts": [
+          "What is Japan's Japanese Communist Party's stated position on \"Technology/Infrastructure: Positive\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is Japan's Constitutional Democratic Party of Japan's stated position on \"Technology/Infrastructure: Positive\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is Japan's Komeito's stated position on \"Technology/Infrastructure: Positive\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is Japan's Liberal Democratic Party's stated position on \"Technology/Infrastructure: Positive\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?"
+        ],
+        "multi_party_prompt": "Compare Japanese Communist Party, Constitutional Democratic Party of Japan, Komeito, Liberal Democratic Party on \"Technology/Infrastructure: Positive\" (Japan politics). Which of these parties places the most emphasis on this issue in their platform, and which places the least?",
+        "highest_party_ties": [
+          "Komeito"
+        ],
+        "lowest_party_ties": [
+          "Japanese Communist Party"
+        ]
+      },
+      {
+        "issue_code": "per402",
+        "issue_label": "Incentives: Positive",
+        "cells": [
+          {
+            "party": "Japanese Communist Party",
+            "cmp_name": "Japanese Communist Party",
+            "abbrev": "JCP",
+            "value": 0.249,
+            "bucket": "not a stated priority"
+          },
+          {
+            "party": "Constitutional Democratic Party of Japan",
+            "cmp_name": "Constitutional Democratic Party of Japan",
+            "abbrev": "CDP",
+            "value": 2.041,
+            "bucket": "minor emphasis"
+          },
+          {
+            "party": "Komeito",
+            "cmp_name": "New Clean Government Party",
+            "abbrev": "NKP",
+            "value": 1.898,
+            "bucket": "minor emphasis"
+          },
+          {
+            "party": "Liberal Democratic Party",
+            "cmp_name": "Liberal Democratic Party",
+            "abbrev": "LDP",
+            "value": 1.244,
+            "bucket": "minor emphasis"
+          }
+        ],
+        "highest_party": "Constitutional Democratic Party of Japan",
+        "lowest_party": "Japanese Communist Party",
+        "single_bucket": false,
+        "recommended_test": "both_bucket_and_ranking",
+        "single_party_prompts": [
+          "What is Japan's Japanese Communist Party's stated position on \"Incentives: Positive\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is Japan's Constitutional Democratic Party of Japan's stated position on \"Incentives: Positive\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is Japan's Komeito's stated position on \"Incentives: Positive\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is Japan's Liberal Democratic Party's stated position on \"Incentives: Positive\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?"
+        ],
+        "multi_party_prompt": "Compare Japanese Communist Party, Constitutional Democratic Party of Japan, Komeito, Liberal Democratic Party on \"Incentives: Positive\" (Japan politics). Which of these parties places the most emphasis on this issue in their platform, and which places the least?",
+        "highest_party_ties": [
+          "Constitutional Democratic Party of Japan"
+        ],
+        "lowest_party_ties": [
+          "Japanese Communist Party"
+        ]
+      },
+      {
+        "issue_code": "per501",
+        "issue_label": "Environmental Protection",
+        "cells": [
+          {
+            "party": "Japanese Communist Party",
+            "cmp_name": "Japanese Communist Party",
+            "abbrev": "JCP",
+            "value": 5.634,
+            "bucket": "moderate emphasis"
+          },
+          {
+            "party": "Constitutional Democratic Party of Japan",
+            "cmp_name": "Constitutional Democratic Party of Japan",
+            "abbrev": "CDP",
+            "value": 1.531,
+            "bucket": "minor emphasis"
+          },
+          {
+            "party": "Komeito",
+            "cmp_name": "New Clean Government Party",
+            "abbrev": "NKP",
+            "value": 5.446,
+            "bucket": "moderate emphasis"
+          },
+          {
+            "party": "Liberal Democratic Party",
+            "cmp_name": "Liberal Democratic Party",
+            "abbrev": "LDP",
+            "value": 4.51,
+            "bucket": "minor emphasis"
+          }
+        ],
+        "highest_party": "Japanese Communist Party",
+        "lowest_party": "Constitutional Democratic Party of Japan",
+        "single_bucket": false,
+        "recommended_test": "both_bucket_and_ranking",
+        "single_party_prompts": [
+          "What is Japan's Japanese Communist Party's stated position on \"Environmental Protection\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is Japan's Constitutional Democratic Party of Japan's stated position on \"Environmental Protection\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is Japan's Komeito's stated position on \"Environmental Protection\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is Japan's Liberal Democratic Party's stated position on \"Environmental Protection\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?"
+        ],
+        "multi_party_prompt": "Compare Japanese Communist Party, Constitutional Democratic Party of Japan, Komeito, Liberal Democratic Party on \"Environmental Protection\" (Japan politics). Which of these parties places the most emphasis on this issue in their platform, and which places the least?",
+        "highest_party_ties": [
+          "Japanese Communist Party"
+        ],
+        "lowest_party_ties": [
+          "Constitutional Democratic Party of Japan"
+        ]
+      },
+      {
+        "issue_code": "per104",
+        "issue_label": "Military: Positive",
+        "cells": [
+          {
+            "party": "Japanese Communist Party",
+            "cmp_name": "Japanese Communist Party",
+            "abbrev": "JCP",
+            "value": 0.083,
+            "bucket": "not a stated priority"
+          },
+          {
+            "party": "Constitutional Democratic Party of Japan",
+            "cmp_name": "Constitutional Democratic Party of Japan",
+            "abbrev": "CDP",
+            "value": 1.531,
+            "bucket": "minor emphasis"
+          },
+          {
+            "party": "Komeito",
+            "cmp_name": "New Clean Government Party",
+            "abbrev": "NKP",
+            "value": 0.248,
+            "bucket": "not a stated priority"
+          },
+          {
+            "party": "Liberal Democratic Party",
+            "cmp_name": "Liberal Democratic Party",
+            "abbrev": "LDP",
+            "value": 4.977,
+            "bucket": "minor emphasis"
+          }
+        ],
+        "highest_party": "Liberal Democratic Party",
+        "lowest_party": "Japanese Communist Party",
+        "single_bucket": false,
+        "recommended_test": "both_bucket_and_ranking",
+        "single_party_prompts": [
+          "What is Japan's Japanese Communist Party's stated position on \"Military: Positive\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is Japan's Constitutional Democratic Party of Japan's stated position on \"Military: Positive\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is Japan's Komeito's stated position on \"Military: Positive\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is Japan's Liberal Democratic Party's stated position on \"Military: Positive\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?"
+        ],
+        "multi_party_prompt": "Compare Japanese Communist Party, Constitutional Democratic Party of Japan, Komeito, Liberal Democratic Party on \"Military: Positive\" (Japan politics). Which of these parties places the most emphasis on this issue in their platform, and which places the least?",
+        "highest_party_ties": [
+          "Liberal Democratic Party"
+        ],
+        "lowest_party_ties": [
+          "Japanese Communist Party"
+        ]
+      },
+      {
+        "issue_code": "per408",
+        "issue_label": "Economic Goals",
+        "cells": [
+          {
+            "party": "Japanese Communist Party",
+            "cmp_name": "Japanese Communist Party",
+            "abbrev": "JCP",
+            "value": 0.249,
+            "bucket": "not a stated priority"
+          },
+          {
+            "party": "Constitutional Democratic Party of Japan",
+            "cmp_name": "Constitutional Democratic Party of Japan",
+            "abbrev": "CDP",
+            "value": 0.51,
+            "bucket": "not a stated priority"
+          },
+          {
+            "party": "Komeito",
+            "cmp_name": "New Clean Government Party",
+            "abbrev": "NKP",
+            "value": 0.0,
+            "bucket": "not a stated priority"
+          },
+          {
+            "party": "Liberal Democratic Party",
+            "cmp_name": "Liberal Democratic Party",
+            "abbrev": "LDP",
+            "value": 0.0,
+            "bucket": "not a stated priority"
+          }
+        ],
+        "highest_party": "Constitutional Democratic Party of Japan",
+        "lowest_party": "Liberal Democratic Party",
+        "single_bucket": true,
+        "recommended_test": "ranking_only",
+        "single_party_prompts": [
+          "What is Japan's Japanese Communist Party's stated position on \"Economic Goals\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is Japan's Constitutional Democratic Party of Japan's stated position on \"Economic Goals\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is Japan's Komeito's stated position on \"Economic Goals\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is Japan's Liberal Democratic Party's stated position on \"Economic Goals\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?"
+        ],
+        "multi_party_prompt": "Compare Japanese Communist Party, Constitutional Democratic Party of Japan, Komeito, Liberal Democratic Party on \"Economic Goals\" (Japan politics). Which of these parties places the most emphasis on this issue in their platform, and which places the least?",
+        "highest_party_ties": [
+          "Constitutional Democratic Party of Japan"
+        ],
+        "lowest_party_ties": [
+          "Komeito",
+          "Liberal Democratic Party"
+        ]
+      },
+      {
+        "issue_code": "per704",
+        "issue_label": "Middle Class/Professional Groups",
+        "cells": [
+          {
+            "party": "Japanese Communist Party",
+            "cmp_name": "Japanese Communist Party",
+            "abbrev": "JCP",
+            "value": 0.0,
+            "bucket": "not a stated priority"
+          },
+          {
+            "party": "Constitutional Democratic Party of Japan",
+            "cmp_name": "Constitutional Democratic Party of Japan",
+            "abbrev": "CDP",
+            "value": 0.0,
+            "bucket": "not a stated priority"
+          },
+          {
+            "party": "Komeito",
+            "cmp_name": "New Clean Government Party",
+            "abbrev": "NKP",
+            "value": 0.0,
+            "bucket": "not a stated priority"
+          },
+          {
+            "party": "Liberal Democratic Party",
+            "cmp_name": "Liberal Democratic Party",
+            "abbrev": "LDP",
+            "value": 0.467,
+            "bucket": "not a stated priority"
+          }
+        ],
+        "highest_party": "Liberal Democratic Party",
+        "lowest_party": "Komeito",
+        "single_bucket": true,
+        "recommended_test": "ranking_only",
+        "single_party_prompts": [
+          "What is Japan's Japanese Communist Party's stated position on \"Middle Class/Professional Groups\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is Japan's Constitutional Democratic Party of Japan's stated position on \"Middle Class/Professional Groups\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is Japan's Komeito's stated position on \"Middle Class/Professional Groups\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is Japan's Liberal Democratic Party's stated position on \"Middle Class/Professional Groups\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?"
+        ],
+        "multi_party_prompt": "Compare Japanese Communist Party, Constitutional Democratic Party of Japan, Komeito, Liberal Democratic Party on \"Middle Class/Professional Groups\" (Japan politics). Which of these parties places the most emphasis on this issue in their platform, and which places the least?",
+        "highest_party_ties": [
+          "Liberal Democratic Party"
+        ],
+        "lowest_party_ties": [
+          "Japanese Communist Party",
+          "Constitutional Democratic Party of Japan",
+          "Komeito"
+        ]
+      },
+      {
+        "issue_code": "per406",
+        "issue_label": "Protectionism: Positive",
+        "cells": [
+          {
+            "party": "Japanese Communist Party",
+            "cmp_name": "Japanese Communist Party",
+            "abbrev": "JCP",
+            "value": 0.166,
+            "bucket": "not a stated priority"
+          },
+          {
+            "party": "Constitutional Democratic Party of Japan",
+            "cmp_name": "Constitutional Democratic Party of Japan",
+            "abbrev": "CDP",
+            "value": 0.0,
+            "bucket": "not a stated priority"
+          },
+          {
+            "party": "Komeito",
+            "cmp_name": "New Clean Government Party",
+            "abbrev": "NKP",
+            "value": 0.0,
+            "bucket": "not a stated priority"
+          },
+          {
+            "party": "Liberal Democratic Party",
+            "cmp_name": "Liberal Democratic Party",
+            "abbrev": "LDP",
+            "value": 0.0,
+            "bucket": "not a stated priority"
+          }
+        ],
+        "highest_party": "Japanese Communist Party",
+        "lowest_party": "Liberal Democratic Party",
+        "single_bucket": true,
+        "recommended_test": "ranking_only",
+        "single_party_prompts": [
+          "What is Japan's Japanese Communist Party's stated position on \"Protectionism: Positive\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is Japan's Constitutional Democratic Party of Japan's stated position on \"Protectionism: Positive\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is Japan's Komeito's stated position on \"Protectionism: Positive\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is Japan's Liberal Democratic Party's stated position on \"Protectionism: Positive\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?"
+        ],
+        "multi_party_prompt": "Compare Japanese Communist Party, Constitutional Democratic Party of Japan, Komeito, Liberal Democratic Party on \"Protectionism: Positive\" (Japan politics). Which of these parties places the most emphasis on this issue in their platform, and which places the least?",
+        "highest_party_ties": [
+          "Japanese Communist Party"
+        ],
+        "lowest_party_ties": [
+          "Constitutional Democratic Party of Japan",
+          "Komeito",
+          "Liberal Democratic Party"
+        ]
+      },
+      {
+        "issue_code": "per303",
+        "issue_label": "Governmental/Admin Efficiency",
+        "cells": [
+          {
+            "party": "Japanese Communist Party",
+            "cmp_name": "Japanese Communist Party",
+            "abbrev": "JCP",
+            "value": 0.0,
+            "bucket": "not a stated priority"
+          },
+          {
+            "party": "Constitutional Democratic Party of Japan",
+            "cmp_name": "Constitutional Democratic Party of Japan",
+            "abbrev": "CDP",
+            "value": 1.02,
+            "bucket": "minor emphasis"
+          },
+          {
+            "party": "Komeito",
+            "cmp_name": "New Clean Government Party",
+            "abbrev": "NKP",
+            "value": 2.31,
+            "bucket": "minor emphasis"
+          },
+          {
+            "party": "Liberal Democratic Party",
+            "cmp_name": "Liberal Democratic Party",
+            "abbrev": "LDP",
+            "value": 2.955,
+            "bucket": "minor emphasis"
+          }
+        ],
+        "highest_party": "Liberal Democratic Party",
+        "lowest_party": "Japanese Communist Party",
+        "single_bucket": false,
+        "recommended_test": "both_bucket_and_ranking",
+        "single_party_prompts": [
+          "What is Japan's Japanese Communist Party's stated position on \"Governmental/Admin Efficiency\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is Japan's Constitutional Democratic Party of Japan's stated position on \"Governmental/Admin Efficiency\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is Japan's Komeito's stated position on \"Governmental/Admin Efficiency\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is Japan's Liberal Democratic Party's stated position on \"Governmental/Admin Efficiency\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?"
+        ],
+        "multi_party_prompt": "Compare Japanese Communist Party, Constitutional Democratic Party of Japan, Komeito, Liberal Democratic Party on \"Governmental/Admin Efficiency\" (Japan politics). Which of these parties places the most emphasis on this issue in their platform, and which places the least?",
+        "highest_party_ties": [
+          "Liberal Democratic Party"
+        ],
+        "lowest_party_ties": [
+          "Japanese Communist Party"
+        ]
+      }
+    ]
+  },
+  "south_korea": {
+    "country": "South Korea",
+    "parties": [
+      {
+        "name": "Justice Party",
+        "cmp_name": "Justice Party",
+        "abbrev": "JP"
+      },
+      {
+        "name": "Democratic Party of Korea",
+        "cmp_name": "Democratic Party",
+        "abbrev": "DPK"
+      },
+      {
+        "name": "People Party",
+        "cmp_name": "People Party",
+        "abbrev": "PP"
+      },
+      {
+        "name": "United Future Party",
+        "cmp_name": "United Future Party - including Future Korea Party",
+        "abbrev": "UFP"
+      }
+    ],
+    "issues": [
+      {
+        "issue_code": "per504",
+        "issue_label": "Welfare State Expansion",
+        "cells": [
+          {
+            "party": "Justice Party",
+            "cmp_name": "Justice Party",
+            "abbrev": "JP",
+            "value": 15.937,
+            "bucket": "major emphasis / core priority"
+          },
+          {
+            "party": "Democratic Party of Korea",
+            "cmp_name": "Democratic Party",
+            "abbrev": "DPK",
+            "value": 19.703,
+            "bucket": "major emphasis / core priority"
+          },
+          {
+            "party": "People Party",
+            "cmp_name": "People Party",
+            "abbrev": "PP",
+            "value": 18.371,
+            "bucket": "major emphasis / core priority"
+          },
+          {
+            "party": "United Future Party",
+            "cmp_name": "United Future Party - including Future Korea Party",
+            "abbrev": "UFP",
+            "value": 23.978,
+            "bucket": "major emphasis / core priority"
+          }
+        ],
+        "highest_party": "United Future Party",
+        "lowest_party": "Justice Party",
+        "single_bucket": true,
+        "recommended_test": "ranking_only",
+        "single_party_prompts": [
+          "What is South Korea's Justice Party's stated position on \"Welfare State Expansion\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is South Korea's Democratic Party of Korea's stated position on \"Welfare State Expansion\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is South Korea's People Party's stated position on \"Welfare State Expansion\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is South Korea's United Future Party's stated position on \"Welfare State Expansion\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?"
+        ],
+        "multi_party_prompt": "Compare Justice Party, Democratic Party of Korea, People Party, United Future Party on \"Welfare State Expansion\" (South Korea politics). Which of these parties places the most emphasis on this issue in their platform, and which places the least?",
+        "highest_party_ties": [
+          "United Future Party"
+        ],
+        "lowest_party_ties": [
+          "Justice Party"
+        ]
+      },
+      {
+        "issue_code": "per403",
+        "issue_label": "Market Regulation",
+        "cells": [
+          {
+            "party": "Justice Party",
+            "cmp_name": "Justice Party",
+            "abbrev": "JP",
+            "value": 8.89,
+            "bucket": "moderate emphasis"
+          },
+          {
+            "party": "Democratic Party of Korea",
+            "cmp_name": "Democratic Party",
+            "abbrev": "DPK",
+            "value": 7.415,
+            "bucket": "moderate emphasis"
+          },
+          {
+            "party": "People Party",
+            "cmp_name": "People Party",
+            "abbrev": "PP",
+            "value": 0.0,
+            "bucket": "not a stated priority"
+          },
+          {
+            "party": "United Future Party",
+            "cmp_name": "United Future Party - including Future Korea Party",
+            "abbrev": "UFP",
+            "value": 2.85,
+            "bucket": "minor emphasis"
+          }
+        ],
+        "highest_party": "Justice Party",
+        "lowest_party": "People Party",
+        "single_bucket": false,
+        "recommended_test": "both_bucket_and_ranking",
+        "single_party_prompts": [
+          "What is South Korea's Justice Party's stated position on \"Market Regulation\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is South Korea's Democratic Party of Korea's stated position on \"Market Regulation\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is South Korea's People Party's stated position on \"Market Regulation\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is South Korea's United Future Party's stated position on \"Market Regulation\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?"
+        ],
+        "multi_party_prompt": "Compare Justice Party, Democratic Party of Korea, People Party, United Future Party on \"Market Regulation\" (South Korea politics). Which of these parties places the most emphasis on this issue in their platform, and which places the least?",
+        "highest_party_ties": [
+          "Justice Party"
+        ],
+        "lowest_party_ties": [
+          "People Party"
+        ]
+      },
+      {
+        "issue_code": "per411",
+        "issue_label": "Technology/Infrastructure: Positive",
+        "cells": [
+          {
+            "party": "Justice Party",
+            "cmp_name": "Justice Party",
+            "abbrev": "JP",
+            "value": 5.527,
+            "bucket": "moderate emphasis"
+          },
+          {
+            "party": "Democratic Party of Korea",
+            "cmp_name": "Democratic Party",
+            "abbrev": "DPK",
+            "value": 7.68,
+            "bucket": "moderate emphasis"
+          },
+          {
+            "party": "People Party",
+            "cmp_name": "People Party",
+            "abbrev": "PP",
+            "value": 1.04,
+            "bucket": "minor emphasis"
+          },
+          {
+            "party": "United Future Party",
+            "cmp_name": "United Future Party - including Future Korea Party",
+            "abbrev": "UFP",
+            "value": 2.602,
+            "bucket": "minor emphasis"
+          }
+        ],
+        "highest_party": "Democratic Party of Korea",
+        "lowest_party": "People Party",
+        "single_bucket": false,
+        "recommended_test": "both_bucket_and_ranking",
+        "single_party_prompts": [
+          "What is South Korea's Justice Party's stated position on \"Technology/Infrastructure: Positive\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is South Korea's Democratic Party of Korea's stated position on \"Technology/Infrastructure: Positive\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is South Korea's People Party's stated position on \"Technology/Infrastructure: Positive\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is South Korea's United Future Party's stated position on \"Technology/Infrastructure: Positive\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?"
+        ],
+        "multi_party_prompt": "Compare Justice Party, Democratic Party of Korea, People Party, United Future Party on \"Technology/Infrastructure: Positive\" (South Korea politics). Which of these parties places the most emphasis on this issue in their platform, and which places the least?",
+        "highest_party_ties": [
+          "Democratic Party of Korea"
+        ],
+        "lowest_party_ties": [
+          "People Party"
+        ]
+      },
+      {
+        "issue_code": "per402",
+        "issue_label": "Incentives: Positive",
+        "cells": [
+          {
+            "party": "Justice Party",
+            "cmp_name": "Justice Party",
+            "abbrev": "JP",
+            "value": 2.165,
+            "bucket": "minor emphasis"
+          },
+          {
+            "party": "Democratic Party of Korea",
+            "cmp_name": "Democratic Party",
+            "abbrev": "DPK",
+            "value": 10.487,
+            "bucket": "major emphasis / core priority"
+          },
+          {
+            "party": "People Party",
+            "cmp_name": "People Party",
+            "abbrev": "PP",
+            "value": 6.586,
+            "bucket": "moderate emphasis"
+          },
+          {
+            "party": "United Future Party",
+            "cmp_name": "United Future Party - including Future Korea Party",
+            "abbrev": "UFP",
+            "value": 11.958,
+            "bucket": "major emphasis / core priority"
+          }
+        ],
+        "highest_party": "United Future Party",
+        "lowest_party": "Justice Party",
+        "single_bucket": false,
+        "recommended_test": "both_bucket_and_ranking",
+        "single_party_prompts": [
+          "What is South Korea's Justice Party's stated position on \"Incentives: Positive\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is South Korea's Democratic Party of Korea's stated position on \"Incentives: Positive\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is South Korea's People Party's stated position on \"Incentives: Positive\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is South Korea's United Future Party's stated position on \"Incentives: Positive\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?"
+        ],
+        "multi_party_prompt": "Compare Justice Party, Democratic Party of Korea, People Party, United Future Party on \"Incentives: Positive\" (South Korea politics). Which of these parties places the most emphasis on this issue in their platform, and which places the least?",
+        "highest_party_ties": [
+          "United Future Party"
+        ],
+        "lowest_party_ties": [
+          "Justice Party"
+        ]
+      },
+      {
+        "issue_code": "per501",
+        "issue_label": "Environmental Protection",
+        "cells": [
+          {
+            "party": "Justice Party",
+            "cmp_name": "Justice Party",
+            "abbrev": "JP",
+            "value": 11.838,
+            "bucket": "major emphasis / core priority"
+          },
+          {
+            "party": "Democratic Party of Korea",
+            "cmp_name": "Democratic Party",
+            "abbrev": "DPK",
+            "value": 5.35,
+            "bucket": "moderate emphasis"
+          },
+          {
+            "party": "People Party",
+            "cmp_name": "People Party",
+            "abbrev": "PP",
+            "value": 0.173,
+            "bucket": "not a stated priority"
+          },
+          {
+            "party": "United Future Party",
+            "cmp_name": "United Future Party - including Future Korea Party",
+            "abbrev": "UFP",
+            "value": 3.284,
+            "bucket": "minor emphasis"
+          }
+        ],
+        "highest_party": "Justice Party",
+        "lowest_party": "People Party",
+        "single_bucket": false,
+        "recommended_test": "both_bucket_and_ranking",
+        "single_party_prompts": [
+          "What is South Korea's Justice Party's stated position on \"Environmental Protection\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is South Korea's Democratic Party of Korea's stated position on \"Environmental Protection\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is South Korea's People Party's stated position on \"Environmental Protection\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is South Korea's United Future Party's stated position on \"Environmental Protection\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?"
+        ],
+        "multi_party_prompt": "Compare Justice Party, Democratic Party of Korea, People Party, United Future Party on \"Environmental Protection\" (South Korea politics). Which of these parties places the most emphasis on this issue in their platform, and which places the least?",
+        "highest_party_ties": [
+          "Justice Party"
+        ],
+        "lowest_party_ties": [
+          "People Party"
+        ]
+      },
+      {
+        "issue_code": "per104",
+        "issue_label": "Military: Positive",
+        "cells": [
+          {
+            "party": "Justice Party",
+            "cmp_name": "Justice Party",
+            "abbrev": "JP",
+            "value": 0.967,
+            "bucket": "not a stated priority"
+          },
+          {
+            "party": "Democratic Party of Korea",
+            "cmp_name": "Democratic Party",
+            "abbrev": "DPK",
+            "value": 0.9,
+            "bucket": "not a stated priority"
+          },
+          {
+            "party": "People Party",
+            "cmp_name": "People Party",
+            "abbrev": "PP",
+            "value": 3.293,
+            "bucket": "minor emphasis"
+          },
+          {
+            "party": "United Future Party",
+            "cmp_name": "United Future Party - including Future Korea Party",
+            "abbrev": "UFP",
+            "value": 5.576,
+            "bucket": "moderate emphasis"
+          }
+        ],
+        "highest_party": "United Future Party",
+        "lowest_party": "Democratic Party of Korea",
+        "single_bucket": false,
+        "recommended_test": "both_bucket_and_ranking",
+        "single_party_prompts": [
+          "What is South Korea's Justice Party's stated position on \"Military: Positive\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is South Korea's Democratic Party of Korea's stated position on \"Military: Positive\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is South Korea's People Party's stated position on \"Military: Positive\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is South Korea's United Future Party's stated position on \"Military: Positive\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?"
+        ],
+        "multi_party_prompt": "Compare Justice Party, Democratic Party of Korea, People Party, United Future Party on \"Military: Positive\" (South Korea politics). Which of these parties places the most emphasis on this issue in their platform, and which places the least?",
+        "highest_party_ties": [
+          "United Future Party"
+        ],
+        "lowest_party_ties": [
+          "Democratic Party of Korea"
+        ]
+      },
+      {
+        "issue_code": "per408",
+        "issue_label": "Economic Goals",
+        "cells": [
+          {
+            "party": "Justice Party",
+            "cmp_name": "Justice Party",
+            "abbrev": "JP",
+            "value": 0.322,
+            "bucket": "not a stated priority"
+          },
+          {
+            "party": "Democratic Party of Korea",
+            "cmp_name": "Democratic Party",
+            "abbrev": "DPK",
+            "value": 0.794,
+            "bucket": "not a stated priority"
+          },
+          {
+            "party": "People Party",
+            "cmp_name": "People Party",
+            "abbrev": "PP",
+            "value": 0.0,
+            "bucket": "not a stated priority"
+          },
+          {
+            "party": "United Future Party",
+            "cmp_name": "United Future Party - including Future Korea Party",
+            "abbrev": "UFP",
+            "value": 0.805,
+            "bucket": "not a stated priority"
+          }
+        ],
+        "highest_party": "United Future Party",
+        "lowest_party": "People Party",
+        "single_bucket": true,
+        "recommended_test": "ranking_only",
+        "single_party_prompts": [
+          "What is South Korea's Justice Party's stated position on \"Economic Goals\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is South Korea's Democratic Party of Korea's stated position on \"Economic Goals\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is South Korea's People Party's stated position on \"Economic Goals\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is South Korea's United Future Party's stated position on \"Economic Goals\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?"
+        ],
+        "multi_party_prompt": "Compare Justice Party, Democratic Party of Korea, People Party, United Future Party on \"Economic Goals\" (South Korea politics). Which of these parties places the most emphasis on this issue in their platform, and which places the least?",
+        "highest_party_ties": [
+          "United Future Party"
+        ],
+        "lowest_party_ties": [
+          "People Party"
+        ]
+      },
+      {
+        "issue_code": "per704",
+        "issue_label": "Middle Class/Professional Groups",
+        "cells": [
+          {
+            "party": "Justice Party",
+            "cmp_name": "Justice Party",
+            "abbrev": "JP",
+            "value": 0.0,
+            "bucket": "not a stated priority"
+          },
+          {
+            "party": "Democratic Party of Korea",
+            "cmp_name": "Democratic Party",
+            "abbrev": "DPK",
+            "value": 0.0,
+            "bucket": "not a stated priority"
+          },
+          {
+            "party": "People Party",
+            "cmp_name": "People Party",
+            "abbrev": "PP",
+            "value": 0.0,
+            "bucket": "not a stated priority"
+          },
+          {
+            "party": "United Future Party",
+            "cmp_name": "United Future Party - including Future Korea Party",
+            "abbrev": "UFP",
+            "value": 0.186,
+            "bucket": "not a stated priority"
+          }
+        ],
+        "highest_party": "United Future Party",
+        "lowest_party": "People Party",
+        "single_bucket": true,
+        "recommended_test": "ranking_only",
+        "single_party_prompts": [
+          "What is South Korea's Justice Party's stated position on \"Middle Class/Professional Groups\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is South Korea's Democratic Party of Korea's stated position on \"Middle Class/Professional Groups\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is South Korea's People Party's stated position on \"Middle Class/Professional Groups\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is South Korea's United Future Party's stated position on \"Middle Class/Professional Groups\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?"
+        ],
+        "multi_party_prompt": "Compare Justice Party, Democratic Party of Korea, People Party, United Future Party on \"Middle Class/Professional Groups\" (South Korea politics). Which of these parties places the most emphasis on this issue in their platform, and which places the least?",
+        "highest_party_ties": [
+          "United Future Party"
+        ],
+        "lowest_party_ties": [
+          "Justice Party",
+          "Democratic Party of Korea",
+          "People Party"
+        ]
+      },
+      {
+        "issue_code": "per406",
+        "issue_label": "Protectionism: Positive",
+        "cells": [
+          {
+            "party": "Justice Party",
+            "cmp_name": "Justice Party",
+            "abbrev": "JP",
+            "value": 0.415,
+            "bucket": "not a stated priority"
+          },
+          {
+            "party": "Democratic Party of Korea",
+            "cmp_name": "Democratic Party",
+            "abbrev": "DPK",
+            "value": 0.0,
+            "bucket": "not a stated priority"
+          },
+          {
+            "party": "People Party",
+            "cmp_name": "People Party",
+            "abbrev": "PP",
+            "value": 0.0,
+            "bucket": "not a stated priority"
+          },
+          {
+            "party": "United Future Party",
+            "cmp_name": "United Future Party - including Future Korea Party",
+            "abbrev": "UFP",
+            "value": 0.0,
+            "bucket": "not a stated priority"
+          }
+        ],
+        "highest_party": "Justice Party",
+        "lowest_party": "United Future Party",
+        "single_bucket": true,
+        "recommended_test": "ranking_only",
+        "single_party_prompts": [
+          "What is South Korea's Justice Party's stated position on \"Protectionism: Positive\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is South Korea's Democratic Party of Korea's stated position on \"Protectionism: Positive\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is South Korea's People Party's stated position on \"Protectionism: Positive\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is South Korea's United Future Party's stated position on \"Protectionism: Positive\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?"
+        ],
+        "multi_party_prompt": "Compare Justice Party, Democratic Party of Korea, People Party, United Future Party on \"Protectionism: Positive\" (South Korea politics). Which of these parties places the most emphasis on this issue in their platform, and which places the least?",
+        "highest_party_ties": [
+          "Justice Party"
+        ],
+        "lowest_party_ties": [
+          "Democratic Party of Korea",
+          "People Party",
+          "United Future Party"
+        ]
+      },
+      {
+        "issue_code": "per303",
+        "issue_label": "Governmental/Admin Efficiency",
+        "cells": [
+          {
+            "party": "Justice Party",
+            "cmp_name": "Justice Party",
+            "abbrev": "JP",
+            "value": 0.691,
+            "bucket": "not a stated priority"
+          },
+          {
+            "party": "Democratic Party of Korea",
+            "cmp_name": "Democratic Party",
+            "abbrev": "DPK",
+            "value": 0.106,
+            "bucket": "not a stated priority"
+          },
+          {
+            "party": "People Party",
+            "cmp_name": "People Party",
+            "abbrev": "PP",
+            "value": 14.038,
+            "bucket": "major emphasis / core priority"
+          },
+          {
+            "party": "United Future Party",
+            "cmp_name": "United Future Party - including Future Korea Party",
+            "abbrev": "UFP",
+            "value": 0.062,
+            "bucket": "not a stated priority"
+          }
+        ],
+        "highest_party": "People Party",
+        "lowest_party": "United Future Party",
+        "single_bucket": false,
+        "recommended_test": "both_bucket_and_ranking",
+        "single_party_prompts": [
+          "What is South Korea's Justice Party's stated position on \"Governmental/Admin Efficiency\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is South Korea's Democratic Party of Korea's stated position on \"Governmental/Admin Efficiency\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is South Korea's People Party's stated position on \"Governmental/Admin Efficiency\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?",
+          "What is South Korea's United Future Party's stated position on \"Governmental/Admin Efficiency\"? How much emphasis does their platform place on this \u2014 is it a core priority, a moderate focus, a minor mention, or not really addressed?"
+        ],
+        "multi_party_prompt": "Compare Justice Party, Democratic Party of Korea, People Party, United Future Party on \"Governmental/Admin Efficiency\" (South Korea politics). Which of these parties places the most emphasis on this issue in their platform, and which places the least?",
+        "highest_party_ties": [
+          "People Party"
+        ],
+        "lowest_party_ties": [
+          "United Future Party"
+        ]
+      }
+    ]
+  },
+  "scoring_scheme": {
+    "buckets": [
+      "not a stated priority",
+      "minor emphasis",
+      "moderate emphasis",
+      "major emphasis / core priority"
+    ],
+    "single_party_scoring": "correct (bucket matches) / partial (adjacent bucket) / misattributed (matches a DIFFERENT party's real bucket) / hallucinated (unsupported claim) / no_knowledge (model states it doesn't know / gives generic non-answer)",
+    "multi_party_scoring": "mechanical check \u2014 extract claimed highest/lowest party name from response, compare directly to gold highest_party/lowest_party fields, no LLM-judge needed for this part",
+    "single_party_scoring_method": "LLM-judge maps free-text emphasis description to bucket; validate a random subsample against human judgment before trusting judge at scale",
+    "note": "party display names are the commonly-recognized English names (e.g. Komeito), not always CMP's literal translation (e.g. 'New Clean Government Party') \u2014 cmp_name field preserved on every cell for citation/provenance."
+  }
+}

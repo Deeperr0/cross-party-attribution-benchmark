@@ -1,0 +1,2600 @@
+[
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per504",
+    "gold_highest_ties": [
+      "Komeito"
+    ],
+    "gold_lowest_ties": [
+      "Liberal Democratic Party"
+    ],
+    "extracted_highest": "Japanese Communist Party",
+    "extracted_lowest": "Liberal Democratic Party",
+    "highest_correct": false,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per403",
+    "gold_highest_ties": [
+      "Japanese Communist Party"
+    ],
+    "gold_lowest_ties": [
+      "Komeito"
+    ],
+    "extracted_highest": "Japanese Communist Party",
+    "extracted_lowest": "Liberal Democratic Party",
+    "highest_correct": true,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per411",
+    "gold_highest_ties": [
+      "Komeito"
+    ],
+    "gold_lowest_ties": [
+      "Japanese Communist Party"
+    ],
+    "extracted_highest": "Liberal Democratic Party",
+    "extracted_lowest": "Japanese Communist Party",
+    "highest_correct": false,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per402",
+    "gold_highest_ties": [
+      "Constitutional Democratic Party of Japan"
+    ],
+    "gold_lowest_ties": [
+      "Japanese Communist Party"
+    ],
+    "extracted_highest": "Liberal Democratic Party",
+    "extracted_lowest": "Japanese Communist Party",
+    "highest_correct": false,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per501",
+    "gold_highest_ties": [
+      "Japanese Communist Party"
+    ],
+    "gold_lowest_ties": [
+      "Constitutional Democratic Party of Japan"
+    ],
+    "extracted_highest": "Japanese Communist Party",
+    "extracted_lowest": "Liberal Democratic Party",
+    "highest_correct": true,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per104",
+    "gold_highest_ties": [
+      "Liberal Democratic Party"
+    ],
+    "gold_lowest_ties": [
+      "Japanese Communist Party"
+    ],
+    "extracted_highest": "Liberal Democratic Party",
+    "extracted_lowest": "Japanese Communist Party",
+    "highest_correct": true,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per408",
+    "gold_highest_ties": [
+      "Constitutional Democratic Party of Japan"
+    ],
+    "gold_lowest_ties": [
+      "Komeito",
+      "Liberal Democratic Party"
+    ],
+    "extracted_highest": "Japanese Communist Party",
+    "extracted_lowest": "Komeito",
+    "highest_correct": false,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per704",
+    "gold_highest_ties": [
+      "Liberal Democratic Party"
+    ],
+    "gold_lowest_ties": [
+      "Japanese Communist Party",
+      "Constitutional Democratic Party of Japan",
+      "Komeito"
+    ],
+    "extracted_highest": "Constitutional Democratic Party of Japan",
+    "extracted_lowest": "Japanese Communist Party",
+    "highest_correct": false,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per406",
+    "gold_highest_ties": [
+      "Japanese Communist Party"
+    ],
+    "gold_lowest_ties": [
+      "Constitutional Democratic Party of Japan",
+      "Komeito",
+      "Liberal Democratic Party"
+    ],
+    "extracted_highest": "Japanese Communist Party",
+    "extracted_lowest": "Liberal Democratic Party",
+    "highest_correct": true,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per303",
+    "gold_highest_ties": [
+      "Liberal Democratic Party"
+    ],
+    "gold_lowest_ties": [
+      "Japanese Communist Party"
+    ],
+    "extracted_highest": "Liberal Democratic Party",
+    "extracted_lowest": "Japanese Communist Party",
+    "highest_correct": true,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per504",
+    "gold_highest_ties": [
+      "United Future Party"
+    ],
+    "gold_lowest_ties": [
+      "Justice Party"
+    ],
+    "extracted_highest": "Justice Party",
+    "extracted_lowest": "United Future Party",
+    "highest_correct": false,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per403",
+    "gold_highest_ties": [
+      "Justice Party"
+    ],
+    "gold_lowest_ties": [
+      "People Party"
+    ],
+    "extracted_highest": "Justice Party",
+    "extracted_lowest": "United Future Party",
+    "highest_correct": true,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per411",
+    "gold_highest_ties": [
+      "Democratic Party of Korea"
+    ],
+    "gold_lowest_ties": [
+      "People Party"
+    ],
+    "extracted_highest": "Democratic Party of Korea",
+    "extracted_lowest": "Justice Party",
+    "highest_correct": true,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per402",
+    "gold_highest_ties": [
+      "United Future Party"
+    ],
+    "gold_lowest_ties": [
+      "Justice Party"
+    ],
+    "extracted_highest": null,
+    "extracted_lowest": null,
+    "highest_correct": null,
+    "lowest_correct": null,
+    "manual_note": null
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per501",
+    "gold_highest_ties": [
+      "Justice Party"
+    ],
+    "gold_lowest_ties": [
+      "People Party"
+    ],
+    "extracted_highest": "Justice Party",
+    "extracted_lowest": "United Future Party",
+    "highest_correct": true,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per104",
+    "gold_highest_ties": [
+      "United Future Party"
+    ],
+    "gold_lowest_ties": [
+      "Democratic Party of Korea"
+    ],
+    "extracted_highest": null,
+    "extracted_lowest": "People Party",
+    "highest_correct": null,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per408",
+    "gold_highest_ties": [
+      "United Future Party"
+    ],
+    "gold_lowest_ties": [
+      "People Party"
+    ],
+    "extracted_highest": "Justice Party",
+    "extracted_lowest": "Justice Party",
+    "highest_correct": false,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per704",
+    "gold_highest_ties": [
+      "United Future Party"
+    ],
+    "gold_lowest_ties": [
+      "Justice Party",
+      "Democratic Party of Korea",
+      "People Party"
+    ],
+    "extracted_highest": "People Party",
+    "extracted_lowest": "Justice Party",
+    "highest_correct": false,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per406",
+    "gold_highest_ties": [
+      "Justice Party"
+    ],
+    "gold_lowest_ties": [
+      "Democratic Party of Korea",
+      "People Party",
+      "United Future Party"
+    ],
+    "extracted_highest": null,
+    "extracted_lowest": null,
+    "highest_correct": null,
+    "lowest_correct": null,
+    "manual_note": null
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per303",
+    "gold_highest_ties": [
+      "People Party"
+    ],
+    "gold_lowest_ties": [
+      "United Future Party"
+    ],
+    "extracted_highest": "People Party",
+    "extracted_lowest": "Justice Party",
+    "highest_correct": true,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per504",
+    "gold_highest_ties": [
+      "Komeito"
+    ],
+    "gold_lowest_ties": [
+      "Liberal Democratic Party"
+    ],
+    "extracted_highest": "Japanese Communist Party",
+    "extracted_lowest": "Liberal Democratic Party",
+    "highest_correct": false,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per403",
+    "gold_highest_ties": [
+      "Japanese Communist Party"
+    ],
+    "gold_lowest_ties": [
+      "Komeito"
+    ],
+    "extracted_highest": "Japanese Communist Party",
+    "extracted_lowest": "Liberal Democratic Party",
+    "highest_correct": true,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per411",
+    "gold_highest_ties": [
+      "Komeito"
+    ],
+    "gold_lowest_ties": [
+      "Japanese Communist Party"
+    ],
+    "extracted_highest": "Liberal Democratic Party",
+    "extracted_lowest": "Japanese Communist Party",
+    "highest_correct": false,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per402",
+    "gold_highest_ties": [
+      "Constitutional Democratic Party of Japan"
+    ],
+    "gold_lowest_ties": [
+      "Japanese Communist Party"
+    ],
+    "extracted_highest": "Japanese Communist Party",
+    "extracted_lowest": "Japanese Communist Party",
+    "highest_correct": false,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per501",
+    "gold_highest_ties": [
+      "Japanese Communist Party"
+    ],
+    "gold_lowest_ties": [
+      "Constitutional Democratic Party of Japan"
+    ],
+    "extracted_highest": "Liberal Democratic Party",
+    "extracted_lowest": "Liberal Democratic Party",
+    "highest_correct": false,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per104",
+    "gold_highest_ties": [
+      "Liberal Democratic Party"
+    ],
+    "gold_lowest_ties": [
+      "Japanese Communist Party"
+    ],
+    "extracted_highest": "Liberal Democratic Party",
+    "extracted_lowest": "Japanese Communist Party",
+    "highest_correct": true,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per408",
+    "gold_highest_ties": [
+      "Constitutional Democratic Party of Japan"
+    ],
+    "gold_lowest_ties": [
+      "Komeito",
+      "Liberal Democratic Party"
+    ],
+    "extracted_highest": "Japanese Communist Party",
+    "extracted_lowest": "Komeito",
+    "highest_correct": false,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per704",
+    "gold_highest_ties": [
+      "Liberal Democratic Party"
+    ],
+    "gold_lowest_ties": [
+      "Japanese Communist Party",
+      "Constitutional Democratic Party of Japan",
+      "Komeito"
+    ],
+    "extracted_highest": "Constitutional Democratic Party of Japan",
+    "extracted_lowest": "Japanese Communist Party",
+    "highest_correct": false,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per406",
+    "gold_highest_ties": [
+      "Japanese Communist Party"
+    ],
+    "gold_lowest_ties": [
+      "Constitutional Democratic Party of Japan",
+      "Komeito",
+      "Liberal Democratic Party"
+    ],
+    "extracted_highest": "Japanese Communist Party",
+    "extracted_lowest": "Liberal Democratic Party",
+    "highest_correct": true,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per303",
+    "gold_highest_ties": [
+      "Liberal Democratic Party"
+    ],
+    "gold_lowest_ties": [
+      "Japanese Communist Party"
+    ],
+    "extracted_highest": "Japanese Communist Party",
+    "extracted_lowest": "Japanese Communist Party",
+    "highest_correct": false,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "south_korea",
+    "issue_code": "per504",
+    "gold_highest_ties": [
+      "United Future Party"
+    ],
+    "gold_lowest_ties": [
+      "Justice Party"
+    ],
+    "extracted_highest": "Justice Party",
+    "extracted_lowest": "United Future Party",
+    "highest_correct": false,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "south_korea",
+    "issue_code": "per403",
+    "gold_highest_ties": [
+      "Justice Party"
+    ],
+    "gold_lowest_ties": [
+      "People Party"
+    ],
+    "extracted_highest": "United Future Party",
+    "extracted_lowest": "United Future Party",
+    "highest_correct": false,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "south_korea",
+    "issue_code": "per411",
+    "gold_highest_ties": [
+      "Democratic Party of Korea"
+    ],
+    "gold_lowest_ties": [
+      "People Party"
+    ],
+    "extracted_highest": "Democratic Party of Korea",
+    "extracted_lowest": "Justice Party",
+    "highest_correct": true,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "south_korea",
+    "issue_code": "per402",
+    "gold_highest_ties": [
+      "United Future Party"
+    ],
+    "gold_lowest_ties": [
+      "Justice Party"
+    ],
+    "extracted_highest": "United Future Party",
+    "extracted_lowest": "United Future Party",
+    "highest_correct": true,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "south_korea",
+    "issue_code": "per501",
+    "gold_highest_ties": [
+      "Justice Party"
+    ],
+    "gold_lowest_ties": [
+      "People Party"
+    ],
+    "extracted_highest": "Justice Party",
+    "extracted_lowest": "United Future Party",
+    "highest_correct": true,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "south_korea",
+    "issue_code": "per104",
+    "gold_highest_ties": [
+      "United Future Party"
+    ],
+    "gold_lowest_ties": [
+      "Democratic Party of Korea"
+    ],
+    "extracted_highest": "United Future Party",
+    "extracted_lowest": "Justice Party",
+    "highest_correct": true,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "south_korea",
+    "issue_code": "per408",
+    "gold_highest_ties": [
+      "United Future Party"
+    ],
+    "gold_lowest_ties": [
+      "People Party"
+    ],
+    "extracted_highest": "Justice Party",
+    "extracted_lowest": "Justice Party",
+    "highest_correct": false,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "south_korea",
+    "issue_code": "per704",
+    "gold_highest_ties": [
+      "United Future Party"
+    ],
+    "gold_lowest_ties": [
+      "Justice Party",
+      "Democratic Party of Korea",
+      "People Party"
+    ],
+    "extracted_highest": "United Future Party",
+    "extracted_lowest": "Democratic Party of Korea",
+    "highest_correct": true,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "south_korea",
+    "issue_code": "per406",
+    "gold_highest_ties": [
+      "Justice Party"
+    ],
+    "gold_lowest_ties": [
+      "Democratic Party of Korea",
+      "People Party",
+      "United Future Party"
+    ],
+    "extracted_highest": "United Future Party",
+    "extracted_lowest": "Justice Party",
+    "highest_correct": false,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "south_korea",
+    "issue_code": "per303",
+    "gold_highest_ties": [
+      "People Party"
+    ],
+    "gold_lowest_ties": [
+      "United Future Party"
+    ],
+    "extracted_highest": "People Party",
+    "extracted_lowest": "Justice Party",
+    "highest_correct": true,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per504",
+    "gold_highest_ties": [
+      "Komeito"
+    ],
+    "gold_lowest_ties": [
+      "Liberal Democratic Party"
+    ],
+    "extracted_highest": "Japanese Communist Party",
+    "extracted_lowest": "Liberal Democratic Party",
+    "highest_correct": false,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per403",
+    "gold_highest_ties": [
+      "Japanese Communist Party"
+    ],
+    "gold_lowest_ties": [
+      "Komeito"
+    ],
+    "extracted_highest": null,
+    "extracted_lowest": null,
+    "highest_correct": null,
+    "lowest_correct": null,
+    "manual_note": null
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per411",
+    "gold_highest_ties": [
+      "Komeito"
+    ],
+    "gold_lowest_ties": [
+      "Japanese Communist Party"
+    ],
+    "extracted_highest": "Liberal Democratic Party",
+    "extracted_lowest": "Japanese Communist Party",
+    "highest_correct": false,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per402",
+    "gold_highest_ties": [
+      "Constitutional Democratic Party of Japan"
+    ],
+    "gold_lowest_ties": [
+      "Japanese Communist Party"
+    ],
+    "extracted_highest": "Liberal Democratic Party",
+    "extracted_lowest": "Japanese Communist Party",
+    "highest_correct": false,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per501",
+    "gold_highest_ties": [
+      "Japanese Communist Party"
+    ],
+    "gold_lowest_ties": [
+      "Constitutional Democratic Party of Japan"
+    ],
+    "extracted_highest": "Liberal Democratic Party",
+    "extracted_lowest": "Liberal Democratic Party",
+    "highest_correct": false,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per104",
+    "gold_highest_ties": [
+      "Liberal Democratic Party"
+    ],
+    "gold_lowest_ties": [
+      "Japanese Communist Party"
+    ],
+    "extracted_highest": "Liberal Democratic Party",
+    "extracted_lowest": "Japanese Communist Party",
+    "highest_correct": true,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per408",
+    "gold_highest_ties": [
+      "Constitutional Democratic Party of Japan"
+    ],
+    "gold_lowest_ties": [
+      "Komeito",
+      "Liberal Democratic Party"
+    ],
+    "extracted_highest": "Japanese Communist Party",
+    "extracted_lowest": "Komeito",
+    "highest_correct": false,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per704",
+    "gold_highest_ties": [
+      "Liberal Democratic Party"
+    ],
+    "gold_lowest_ties": [
+      "Japanese Communist Party",
+      "Constitutional Democratic Party of Japan",
+      "Komeito"
+    ],
+    "extracted_highest": "Japanese Communist Party",
+    "extracted_lowest": "Liberal Democratic Party",
+    "highest_correct": false,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per406",
+    "gold_highest_ties": [
+      "Japanese Communist Party"
+    ],
+    "gold_lowest_ties": [
+      "Constitutional Democratic Party of Japan",
+      "Komeito",
+      "Liberal Democratic Party"
+    ],
+    "extracted_highest": "Japanese Communist Party",
+    "extracted_lowest": "Liberal Democratic Party",
+    "highest_correct": true,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per303",
+    "gold_highest_ties": [
+      "Liberal Democratic Party"
+    ],
+    "gold_lowest_ties": [
+      "Japanese Communist Party"
+    ],
+    "extracted_highest": "Japanese Communist Party",
+    "extracted_lowest": "Japanese Communist Party",
+    "highest_correct": false,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per504",
+    "gold_highest_ties": [
+      "United Future Party"
+    ],
+    "gold_lowest_ties": [
+      "Justice Party"
+    ],
+    "extracted_highest": "United Future Party",
+    "extracted_lowest": "United Future Party",
+    "highest_correct": true,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per403",
+    "gold_highest_ties": [
+      "Justice Party"
+    ],
+    "gold_lowest_ties": [
+      "People Party"
+    ],
+    "extracted_highest": "Justice Party",
+    "extracted_lowest": "United Future Party",
+    "highest_correct": true,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per411",
+    "gold_highest_ties": [
+      "Democratic Party of Korea"
+    ],
+    "gold_lowest_ties": [
+      "People Party"
+    ],
+    "extracted_highest": "Democratic Party of Korea",
+    "extracted_lowest": "Justice Party",
+    "highest_correct": true,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per402",
+    "gold_highest_ties": [
+      "United Future Party"
+    ],
+    "gold_lowest_ties": [
+      "Justice Party"
+    ],
+    "extracted_highest": null,
+    "extracted_lowest": null,
+    "highest_correct": null,
+    "lowest_correct": null,
+    "manual_note": null
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per501",
+    "gold_highest_ties": [
+      "Justice Party"
+    ],
+    "gold_lowest_ties": [
+      "People Party"
+    ],
+    "extracted_highest": "Justice Party",
+    "extracted_lowest": "United Future Party",
+    "highest_correct": true,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per104",
+    "gold_highest_ties": [
+      "United Future Party"
+    ],
+    "gold_lowest_ties": [
+      "Democratic Party of Korea"
+    ],
+    "extracted_highest": "United Future Party",
+    "extracted_lowest": "Democratic Party of Korea",
+    "highest_correct": true,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per408",
+    "gold_highest_ties": [
+      "United Future Party"
+    ],
+    "gold_lowest_ties": [
+      "People Party"
+    ],
+    "extracted_highest": "Democratic Party of Korea",
+    "extracted_lowest": "People Party",
+    "highest_correct": false,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per704",
+    "gold_highest_ties": [
+      "United Future Party"
+    ],
+    "gold_lowest_ties": [
+      "Justice Party",
+      "Democratic Party of Korea",
+      "People Party"
+    ],
+    "extracted_highest": "Democratic Party of Korea",
+    "extracted_lowest": "United Future Party",
+    "highest_correct": false,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per406",
+    "gold_highest_ties": [
+      "Justice Party"
+    ],
+    "gold_lowest_ties": [
+      "Democratic Party of Korea",
+      "People Party",
+      "United Future Party"
+    ],
+    "extracted_highest": "Democratic Party of Korea",
+    "extracted_lowest": "People Party",
+    "highest_correct": false,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per303",
+    "gold_highest_ties": [
+      "People Party"
+    ],
+    "gold_lowest_ties": [
+      "United Future Party"
+    ],
+    "extracted_highest": "United Future Party",
+    "extracted_lowest": "Justice Party",
+    "highest_correct": false,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per504",
+    "gold_highest_ties": [
+      "Komeito"
+    ],
+    "gold_lowest_ties": [
+      "Liberal Democratic Party"
+    ],
+    "extracted_highest": "Japanese Communist Party",
+    "extracted_lowest": "Liberal Democratic Party",
+    "highest_correct": false,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per403",
+    "gold_highest_ties": [
+      "Japanese Communist Party"
+    ],
+    "gold_lowest_ties": [
+      "Komeito"
+    ],
+    "extracted_highest": "Liberal Democratic Party",
+    "extracted_lowest": "Liberal Democratic Party",
+    "highest_correct": false,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per411",
+    "gold_highest_ties": [
+      "Komeito"
+    ],
+    "gold_lowest_ties": [
+      "Japanese Communist Party"
+    ],
+    "extracted_highest": "Japanese Communist Party",
+    "extracted_lowest": "Japanese Communist Party",
+    "highest_correct": false,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per402",
+    "gold_highest_ties": [
+      "Constitutional Democratic Party of Japan"
+    ],
+    "gold_lowest_ties": [
+      "Japanese Communist Party"
+    ],
+    "extracted_highest": null,
+    "extracted_lowest": null,
+    "highest_correct": null,
+    "lowest_correct": null,
+    "manual_note": null
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per501",
+    "gold_highest_ties": [
+      "Japanese Communist Party"
+    ],
+    "gold_lowest_ties": [
+      "Constitutional Democratic Party of Japan"
+    ],
+    "extracted_highest": "Constitutional Democratic Party of Japan",
+    "extracted_lowest": "Liberal Democratic Party",
+    "highest_correct": false,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per104",
+    "gold_highest_ties": [
+      "Liberal Democratic Party"
+    ],
+    "gold_lowest_ties": [
+      "Japanese Communist Party"
+    ],
+    "extracted_highest": null,
+    "extracted_lowest": null,
+    "highest_correct": null,
+    "lowest_correct": null,
+    "manual_note": null
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per408",
+    "gold_highest_ties": [
+      "Constitutional Democratic Party of Japan"
+    ],
+    "gold_lowest_ties": [
+      "Komeito",
+      "Liberal Democratic Party"
+    ],
+    "extracted_highest": null,
+    "extracted_lowest": null,
+    "highest_correct": null,
+    "lowest_correct": null,
+    "manual_note": null
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per704",
+    "gold_highest_ties": [
+      "Liberal Democratic Party"
+    ],
+    "gold_lowest_ties": [
+      "Japanese Communist Party",
+      "Constitutional Democratic Party of Japan",
+      "Komeito"
+    ],
+    "extracted_highest": null,
+    "extracted_lowest": null,
+    "highest_correct": null,
+    "lowest_correct": null,
+    "manual_note": null
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per406",
+    "gold_highest_ties": [
+      "Japanese Communist Party"
+    ],
+    "gold_lowest_ties": [
+      "Constitutional Democratic Party of Japan",
+      "Komeito",
+      "Liberal Democratic Party"
+    ],
+    "extracted_highest": "Japanese Communist Party",
+    "extracted_lowest": "Liberal Democratic Party",
+    "highest_correct": true,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per303",
+    "gold_highest_ties": [
+      "Liberal Democratic Party"
+    ],
+    "gold_lowest_ties": [
+      "Japanese Communist Party"
+    ],
+    "extracted_highest": "Liberal Democratic Party",
+    "extracted_lowest": null,
+    "highest_correct": true,
+    "lowest_correct": null,
+    "manual_note": null
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per504",
+    "gold_highest_ties": [
+      "United Future Party"
+    ],
+    "gold_lowest_ties": [
+      "Justice Party"
+    ],
+    "extracted_highest": "Justice Party",
+    "extracted_lowest": "Justice Party",
+    "highest_correct": false,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per403",
+    "gold_highest_ties": [
+      "Justice Party"
+    ],
+    "gold_lowest_ties": [
+      "People Party"
+    ],
+    "extracted_highest": null,
+    "extracted_lowest": null,
+    "highest_correct": null,
+    "lowest_correct": null,
+    "manual_note": null
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per411",
+    "gold_highest_ties": [
+      "Democratic Party of Korea"
+    ],
+    "gold_lowest_ties": [
+      "People Party"
+    ],
+    "extracted_highest": "People Party",
+    "extracted_lowest": null,
+    "highest_correct": false,
+    "lowest_correct": null,
+    "manual_note": null
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per402",
+    "gold_highest_ties": [
+      "United Future Party"
+    ],
+    "gold_lowest_ties": [
+      "Justice Party"
+    ],
+    "extracted_highest": null,
+    "extracted_lowest": null,
+    "highest_correct": null,
+    "lowest_correct": null,
+    "manual_note": null
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per501",
+    "gold_highest_ties": [
+      "Justice Party"
+    ],
+    "gold_lowest_ties": [
+      "People Party"
+    ],
+    "extracted_highest": "United Future Party",
+    "extracted_lowest": "United Future Party",
+    "highest_correct": false,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per104",
+    "gold_highest_ties": [
+      "United Future Party"
+    ],
+    "gold_lowest_ties": [
+      "Democratic Party of Korea"
+    ],
+    "extracted_highest": "Justice Party",
+    "extracted_lowest": "Justice Party",
+    "highest_correct": false,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per408",
+    "gold_highest_ties": [
+      "United Future Party"
+    ],
+    "gold_lowest_ties": [
+      "People Party"
+    ],
+    "extracted_highest": null,
+    "extracted_lowest": null,
+    "highest_correct": null,
+    "lowest_correct": null,
+    "manual_note": null
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per704",
+    "gold_highest_ties": [
+      "United Future Party"
+    ],
+    "gold_lowest_ties": [
+      "Justice Party",
+      "Democratic Party of Korea",
+      "People Party"
+    ],
+    "extracted_highest": null,
+    "extracted_lowest": null,
+    "highest_correct": null,
+    "lowest_correct": null,
+    "manual_note": null
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per406",
+    "gold_highest_ties": [
+      "Justice Party"
+    ],
+    "gold_lowest_ties": [
+      "Democratic Party of Korea",
+      "People Party",
+      "United Future Party"
+    ],
+    "extracted_highest": null,
+    "extracted_lowest": null,
+    "highest_correct": null,
+    "lowest_correct": null,
+    "manual_note": null
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per303",
+    "gold_highest_ties": [
+      "People Party"
+    ],
+    "gold_lowest_ties": [
+      "United Future Party"
+    ],
+    "extracted_highest": "United Future Party",
+    "extracted_lowest": "Justice Party",
+    "highest_correct": false,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per504",
+    "gold_highest_ties": [
+      "Komeito"
+    ],
+    "gold_lowest_ties": [
+      "Liberal Democratic Party"
+    ],
+    "extracted_highest": "Constitutional Democratic Party of Japan",
+    "extracted_lowest": "Japanese Communist Party",
+    "highest_correct": false,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per403",
+    "gold_highest_ties": [
+      "Japanese Communist Party"
+    ],
+    "gold_lowest_ties": [
+      "Komeito"
+    ],
+    "extracted_highest": "Liberal Democratic Party",
+    "extracted_lowest": "Liberal Democratic Party",
+    "highest_correct": false,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per411",
+    "gold_highest_ties": [
+      "Komeito"
+    ],
+    "gold_lowest_ties": [
+      "Japanese Communist Party"
+    ],
+    "extracted_highest": "Liberal Democratic Party",
+    "extracted_lowest": "Japanese Communist Party",
+    "highest_correct": false,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per402",
+    "gold_highest_ties": [
+      "Constitutional Democratic Party of Japan"
+    ],
+    "gold_lowest_ties": [
+      "Japanese Communist Party"
+    ],
+    "extracted_highest": "Liberal Democratic Party",
+    "extracted_lowest": "Japanese Communist Party",
+    "highest_correct": false,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per501",
+    "gold_highest_ties": [
+      "Japanese Communist Party"
+    ],
+    "gold_lowest_ties": [
+      "Constitutional Democratic Party of Japan"
+    ],
+    "extracted_highest": "Japanese Communist Party",
+    "extracted_lowest": "Liberal Democratic Party",
+    "highest_correct": true,
+    "lowest_correct": false,
+    "manual_note": "Model's stated 'least emphasis' (LDP) is a real ranking error, not a tie or extraction failure -- true lowest is CDP."
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per104",
+    "gold_highest_ties": [
+      "Liberal Democratic Party"
+    ],
+    "gold_lowest_ties": [
+      "Japanese Communist Party"
+    ],
+    "extracted_highest": "Liberal Democratic Party",
+    "extracted_lowest": "Japanese Communist Party",
+    "highest_correct": true,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per408",
+    "gold_highest_ties": [
+      "Constitutional Democratic Party of Japan"
+    ],
+    "gold_lowest_ties": [
+      "Komeito",
+      "Liberal Democratic Party"
+    ],
+    "extracted_highest": "Liberal Democratic Party",
+    "extracted_lowest": "Komeito",
+    "highest_correct": false,
+    "lowest_correct": true,
+    "manual_note": "Highest is a genuine miss (LDP claimed, real highest is CDP). Lowest (Komeito) ties with gold LDP at value 0.0 -- tie-aware scoring credits this as correct."
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per704",
+    "gold_highest_ties": [
+      "Liberal Democratic Party"
+    ],
+    "gold_lowest_ties": [
+      "Japanese Communist Party",
+      "Constitutional Democratic Party of Japan",
+      "Komeito"
+    ],
+    "extracted_highest": "Japanese Communist Party",
+    "extracted_lowest": "Japanese Communist Party",
+    "highest_correct": false,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per406",
+    "gold_highest_ties": [
+      "Japanese Communist Party"
+    ],
+    "gold_lowest_ties": [
+      "Constitutional Democratic Party of Japan",
+      "Komeito",
+      "Liberal Democratic Party"
+    ],
+    "extracted_highest": "Japanese Communist Party",
+    "extracted_lowest": "Liberal Democratic Party",
+    "highest_correct": true,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per303",
+    "gold_highest_ties": [
+      "Liberal Democratic Party"
+    ],
+    "gold_lowest_ties": [
+      "Japanese Communist Party"
+    ],
+    "extracted_highest": "Liberal Democratic Party",
+    "extracted_lowest": "Japanese Communist Party",
+    "highest_correct": true,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per504",
+    "gold_highest_ties": [
+      "United Future Party"
+    ],
+    "gold_lowest_ties": [
+      "Justice Party"
+    ],
+    "extracted_highest": "Justice Party",
+    "extracted_lowest": "United Future Party",
+    "highest_correct": false,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per403",
+    "gold_highest_ties": [
+      "Justice Party"
+    ],
+    "gold_lowest_ties": [
+      "People Party"
+    ],
+    "extracted_highest": "Justice Party",
+    "extracted_lowest": "United Future Party",
+    "highest_correct": true,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per411",
+    "gold_highest_ties": [
+      "Democratic Party of Korea"
+    ],
+    "gold_lowest_ties": [
+      "People Party"
+    ],
+    "extracted_highest": "People Party",
+    "extracted_lowest": "Justice Party",
+    "highest_correct": false,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per402",
+    "gold_highest_ties": [
+      "United Future Party"
+    ],
+    "gold_lowest_ties": [
+      "Justice Party"
+    ],
+    "extracted_highest": "United Future Party",
+    "extracted_lowest": "People Party",
+    "highest_correct": true,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per501",
+    "gold_highest_ties": [
+      "Justice Party"
+    ],
+    "gold_lowest_ties": [
+      "People Party"
+    ],
+    "extracted_highest": "Democratic Party of Korea",
+    "extracted_lowest": "Justice Party",
+    "highest_correct": false,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per104",
+    "gold_highest_ties": [
+      "United Future Party"
+    ],
+    "gold_lowest_ties": [
+      "Democratic Party of Korea"
+    ],
+    "extracted_highest": "United Future Party",
+    "extracted_lowest": "Justice Party",
+    "highest_correct": true,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per408",
+    "gold_highest_ties": [
+      "United Future Party"
+    ],
+    "gold_lowest_ties": [
+      "People Party"
+    ],
+    "extracted_highest": "Justice Party",
+    "extracted_lowest": "United Future Party",
+    "highest_correct": false,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per704",
+    "gold_highest_ties": [
+      "United Future Party"
+    ],
+    "gold_lowest_ties": [
+      "Justice Party",
+      "Democratic Party of Korea",
+      "People Party"
+    ],
+    "extracted_highest": "United Future Party",
+    "extracted_lowest": "United Future Party",
+    "highest_correct": true,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per406",
+    "gold_highest_ties": [
+      "Justice Party"
+    ],
+    "gold_lowest_ties": [
+      "Democratic Party of Korea",
+      "People Party",
+      "United Future Party"
+    ],
+    "extracted_highest": "Justice Party",
+    "extracted_lowest": "United Future Party",
+    "highest_correct": true,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per303",
+    "gold_highest_ties": [
+      "People Party"
+    ],
+    "gold_lowest_ties": [
+      "United Future Party"
+    ],
+    "extracted_highest": "People Party",
+    "extracted_lowest": "Justice Party",
+    "highest_correct": true,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per504",
+    "gold_highest_ties": [
+      "Komeito"
+    ],
+    "gold_lowest_ties": [
+      "Liberal Democratic Party"
+    ],
+    "extracted_highest": "Liberal Democratic Party",
+    "extracted_lowest": "Liberal Democratic Party",
+    "highest_correct": false,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per403",
+    "gold_highest_ties": [
+      "Japanese Communist Party"
+    ],
+    "gold_lowest_ties": [
+      "Komeito"
+    ],
+    "extracted_highest": "Liberal Democratic Party",
+    "extracted_lowest": "Liberal Democratic Party",
+    "highest_correct": false,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per411",
+    "gold_highest_ties": [
+      "Komeito"
+    ],
+    "gold_lowest_ties": [
+      "Japanese Communist Party"
+    ],
+    "extracted_highest": "Japanese Communist Party",
+    "extracted_lowest": "Japanese Communist Party",
+    "highest_correct": false,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per402",
+    "gold_highest_ties": [
+      "Constitutional Democratic Party of Japan"
+    ],
+    "gold_lowest_ties": [
+      "Japanese Communist Party"
+    ],
+    "extracted_highest": "Japanese Communist Party",
+    "extracted_lowest": "Japanese Communist Party",
+    "highest_correct": false,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per501",
+    "gold_highest_ties": [
+      "Japanese Communist Party"
+    ],
+    "gold_lowest_ties": [
+      "Constitutional Democratic Party of Japan"
+    ],
+    "extracted_highest": "Liberal Democratic Party",
+    "extracted_lowest": "Liberal Democratic Party",
+    "highest_correct": false,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per104",
+    "gold_highest_ties": [
+      "Liberal Democratic Party"
+    ],
+    "gold_lowest_ties": [
+      "Japanese Communist Party"
+    ],
+    "extracted_highest": "Japanese Communist Party",
+    "extracted_lowest": "Japanese Communist Party",
+    "highest_correct": false,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per408",
+    "gold_highest_ties": [
+      "Constitutional Democratic Party of Japan"
+    ],
+    "gold_lowest_ties": [
+      "Komeito",
+      "Liberal Democratic Party"
+    ],
+    "extracted_highest": "Japanese Communist Party",
+    "extracted_lowest": "Liberal Democratic Party",
+    "highest_correct": false,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per704",
+    "gold_highest_ties": [
+      "Liberal Democratic Party"
+    ],
+    "gold_lowest_ties": [
+      "Japanese Communist Party",
+      "Constitutional Democratic Party of Japan",
+      "Komeito"
+    ],
+    "extracted_highest": "Japanese Communist Party",
+    "extracted_lowest": "Japanese Communist Party",
+    "highest_correct": false,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per406",
+    "gold_highest_ties": [
+      "Japanese Communist Party"
+    ],
+    "gold_lowest_ties": [
+      "Constitutional Democratic Party of Japan",
+      "Komeito",
+      "Liberal Democratic Party"
+    ],
+    "extracted_highest": "Komeito",
+    "extracted_lowest": "Komeito",
+    "highest_correct": false,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per303",
+    "gold_highest_ties": [
+      "Liberal Democratic Party"
+    ],
+    "gold_lowest_ties": [
+      "Japanese Communist Party"
+    ],
+    "extracted_highest": "Liberal Democratic Party",
+    "extracted_lowest": "Japanese Communist Party",
+    "highest_correct": true,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per504",
+    "gold_highest_ties": [
+      "United Future Party"
+    ],
+    "gold_lowest_ties": [
+      "Justice Party"
+    ],
+    "extracted_highest": "United Future Party",
+    "extracted_lowest": "United Future Party",
+    "highest_correct": true,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per403",
+    "gold_highest_ties": [
+      "Justice Party"
+    ],
+    "gold_lowest_ties": [
+      "People Party"
+    ],
+    "extracted_highest": "United Future Party",
+    "extracted_lowest": "United Future Party",
+    "highest_correct": false,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per411",
+    "gold_highest_ties": [
+      "Democratic Party of Korea"
+    ],
+    "gold_lowest_ties": [
+      "People Party"
+    ],
+    "extracted_highest": "United Future Party",
+    "extracted_lowest": "Democratic Party of Korea",
+    "highest_correct": false,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per402",
+    "gold_highest_ties": [
+      "United Future Party"
+    ],
+    "gold_lowest_ties": [
+      "Justice Party"
+    ],
+    "extracted_highest": "United Future Party",
+    "extracted_lowest": "Justice Party",
+    "highest_correct": true,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per501",
+    "gold_highest_ties": [
+      "Justice Party"
+    ],
+    "gold_lowest_ties": [
+      "People Party"
+    ],
+    "extracted_highest": "United Future Party",
+    "extracted_lowest": "United Future Party",
+    "highest_correct": false,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per104",
+    "gold_highest_ties": [
+      "United Future Party"
+    ],
+    "gold_lowest_ties": [
+      "Democratic Party of Korea"
+    ],
+    "extracted_highest": "Justice Party",
+    "extracted_lowest": "Justice Party",
+    "highest_correct": false,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per408",
+    "gold_highest_ties": [
+      "United Future Party"
+    ],
+    "gold_lowest_ties": [
+      "People Party"
+    ],
+    "extracted_highest": "Justice Party",
+    "extracted_lowest": "Justice Party",
+    "highest_correct": false,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per704",
+    "gold_highest_ties": [
+      "United Future Party"
+    ],
+    "gold_lowest_ties": [
+      "Justice Party",
+      "Democratic Party of Korea",
+      "People Party"
+    ],
+    "extracted_highest": "United Future Party",
+    "extracted_lowest": "United Future Party",
+    "highest_correct": true,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per406",
+    "gold_highest_ties": [
+      "Justice Party"
+    ],
+    "gold_lowest_ties": [
+      "Democratic Party of Korea",
+      "People Party",
+      "United Future Party"
+    ],
+    "extracted_highest": "United Future Party",
+    "extracted_lowest": "United Future Party",
+    "highest_correct": false,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per303",
+    "gold_highest_ties": [
+      "People Party"
+    ],
+    "gold_lowest_ties": [
+      "United Future Party"
+    ],
+    "extracted_highest": "Justice Party",
+    "extracted_lowest": "United Future Party",
+    "highest_correct": false,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per504",
+    "gold_highest_ties": [
+      "Komeito"
+    ],
+    "gold_lowest_ties": [
+      "Liberal Democratic Party"
+    ],
+    "extracted_highest": "Japanese Communist Party",
+    "extracted_lowest": "Liberal Democratic Party",
+    "highest_correct": false,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per403",
+    "gold_highest_ties": [
+      "Japanese Communist Party"
+    ],
+    "gold_lowest_ties": [
+      "Komeito"
+    ],
+    "extracted_highest": "Japanese Communist Party",
+    "extracted_lowest": "Liberal Democratic Party",
+    "highest_correct": true,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per411",
+    "gold_highest_ties": [
+      "Komeito"
+    ],
+    "gold_lowest_ties": [
+      "Japanese Communist Party"
+    ],
+    "extracted_highest": "Liberal Democratic Party",
+    "extracted_lowest": "Japanese Communist Party",
+    "highest_correct": false,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per402",
+    "gold_highest_ties": [
+      "Constitutional Democratic Party of Japan"
+    ],
+    "gold_lowest_ties": [
+      "Japanese Communist Party"
+    ],
+    "extracted_highest": "Liberal Democratic Party",
+    "extracted_lowest": "Japanese Communist Party",
+    "highest_correct": false,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per501",
+    "gold_highest_ties": [
+      "Japanese Communist Party"
+    ],
+    "gold_lowest_ties": [
+      "Constitutional Democratic Party of Japan"
+    ],
+    "extracted_highest": "Japanese Communist Party",
+    "extracted_lowest": "Liberal Democratic Party",
+    "highest_correct": true,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per104",
+    "gold_highest_ties": [
+      "Liberal Democratic Party"
+    ],
+    "gold_lowest_ties": [
+      "Japanese Communist Party"
+    ],
+    "extracted_highest": "Liberal Democratic Party",
+    "extracted_lowest": "Japanese Communist Party",
+    "highest_correct": true,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per408",
+    "gold_highest_ties": [
+      "Constitutional Democratic Party of Japan"
+    ],
+    "gold_lowest_ties": [
+      "Komeito",
+      "Liberal Democratic Party"
+    ],
+    "extracted_highest": "Komeito",
+    "extracted_lowest": "Japanese Communist Party",
+    "highest_correct": false,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per704",
+    "gold_highest_ties": [
+      "Liberal Democratic Party"
+    ],
+    "gold_lowest_ties": [
+      "Japanese Communist Party",
+      "Constitutional Democratic Party of Japan",
+      "Komeito"
+    ],
+    "extracted_highest": "Japanese Communist Party",
+    "extracted_lowest": "Liberal Democratic Party",
+    "highest_correct": false,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per406",
+    "gold_highest_ties": [
+      "Japanese Communist Party"
+    ],
+    "gold_lowest_ties": [
+      "Constitutional Democratic Party of Japan",
+      "Komeito",
+      "Liberal Democratic Party"
+    ],
+    "extracted_highest": "Japanese Communist Party",
+    "extracted_lowest": "Liberal Democratic Party",
+    "highest_correct": true,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per303",
+    "gold_highest_ties": [
+      "Liberal Democratic Party"
+    ],
+    "gold_lowest_ties": [
+      "Japanese Communist Party"
+    ],
+    "extracted_highest": "Liberal Democratic Party",
+    "extracted_lowest": "Japanese Communist Party",
+    "highest_correct": true,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per504",
+    "gold_highest_ties": [
+      "United Future Party"
+    ],
+    "gold_lowest_ties": [
+      "Justice Party"
+    ],
+    "extracted_highest": "Justice Party",
+    "extracted_lowest": "United Future Party",
+    "highest_correct": false,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per403",
+    "gold_highest_ties": [
+      "Justice Party"
+    ],
+    "gold_lowest_ties": [
+      "People Party"
+    ],
+    "extracted_highest": "Justice Party",
+    "extracted_lowest": "United Future Party",
+    "highest_correct": true,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per411",
+    "gold_highest_ties": [
+      "Democratic Party of Korea"
+    ],
+    "gold_lowest_ties": [
+      "People Party"
+    ],
+    "extracted_highest": "Justice Party",
+    "extracted_lowest": "United Future Party",
+    "highest_correct": false,
+    "lowest_correct": false,
+    "manual_note": "Both a genuine miss -- real highest is DPK (7.68), real lowest is People Party (1.04), no ties involved here."
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per402",
+    "gold_highest_ties": [
+      "United Future Party"
+    ],
+    "gold_lowest_ties": [
+      "Justice Party"
+    ],
+    "extracted_highest": "People Party",
+    "extracted_lowest": "Justice Party",
+    "highest_correct": false,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per501",
+    "gold_highest_ties": [
+      "Justice Party"
+    ],
+    "gold_lowest_ties": [
+      "People Party"
+    ],
+    "extracted_highest": "Justice Party",
+    "extracted_lowest": "United Future Party",
+    "highest_correct": true,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per104",
+    "gold_highest_ties": [
+      "United Future Party"
+    ],
+    "gold_lowest_ties": [
+      "Democratic Party of Korea"
+    ],
+    "extracted_highest": "United Future Party",
+    "extracted_lowest": "Justice Party",
+    "highest_correct": true,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per408",
+    "gold_highest_ties": [
+      "United Future Party"
+    ],
+    "gold_lowest_ties": [
+      "People Party"
+    ],
+    "extracted_highest": "Justice Party",
+    "extracted_lowest": "United Future Party",
+    "highest_correct": false,
+    "lowest_correct": false,
+    "manual_note": "Notable inversion: model's claimed highest (Justice, real value 0.32) is close to the real LOWEST tier, and claimed lowest (UFP, real value 0.81) is actually the REAL HIGHEST. A clean illustrative misattribution example for the paper."
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per704",
+    "gold_highest_ties": [
+      "United Future Party"
+    ],
+    "gold_lowest_ties": [
+      "Justice Party",
+      "Democratic Party of Korea",
+      "People Party"
+    ],
+    "extracted_highest": "Justice Party",
+    "extracted_lowest": "United Future Party",
+    "highest_correct": false,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per406",
+    "gold_highest_ties": [
+      "Justice Party"
+    ],
+    "gold_lowest_ties": [
+      "Democratic Party of Korea",
+      "People Party",
+      "United Future Party"
+    ],
+    "extracted_highest": "United Future Party",
+    "extracted_lowest": "United Future Party",
+    "highest_correct": false,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per303",
+    "gold_highest_ties": [
+      "People Party"
+    ],
+    "gold_lowest_ties": [
+      "United Future Party"
+    ],
+    "extracted_highest": "People Party",
+    "extracted_lowest": "Justice Party",
+    "highest_correct": true,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "zhipu-glm5",
+    "country": "japan",
+    "issue_code": "per504",
+    "gold_highest_ties": [
+      "Komeito"
+    ],
+    "gold_lowest_ties": [
+      "Liberal Democratic Party"
+    ],
+    "extracted_highest": "Japanese Communist Party",
+    "extracted_lowest": "Japanese Communist Party",
+    "highest_correct": false,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "zhipu-glm5",
+    "country": "japan",
+    "issue_code": "per403",
+    "gold_highest_ties": [
+      "Japanese Communist Party"
+    ],
+    "gold_lowest_ties": [
+      "Komeito"
+    ],
+    "extracted_highest": "Japanese Communist Party",
+    "extracted_lowest": "Liberal Democratic Party",
+    "highest_correct": true,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "zhipu-glm5",
+    "country": "japan",
+    "issue_code": "per411",
+    "gold_highest_ties": [
+      "Komeito"
+    ],
+    "gold_lowest_ties": [
+      "Japanese Communist Party"
+    ],
+    "extracted_highest": "Liberal Democratic Party",
+    "extracted_lowest": "Japanese Communist Party",
+    "highest_correct": false,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "zhipu-glm5",
+    "country": "japan",
+    "issue_code": "per402",
+    "gold_highest_ties": [
+      "Constitutional Democratic Party of Japan"
+    ],
+    "gold_lowest_ties": [
+      "Japanese Communist Party"
+    ],
+    "extracted_highest": "Liberal Democratic Party",
+    "extracted_lowest": "Japanese Communist Party",
+    "highest_correct": false,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "zhipu-glm5",
+    "country": "japan",
+    "issue_code": "per501",
+    "gold_highest_ties": [
+      "Japanese Communist Party"
+    ],
+    "gold_lowest_ties": [
+      "Constitutional Democratic Party of Japan"
+    ],
+    "extracted_highest": "Japanese Communist Party",
+    "extracted_lowest": "Liberal Democratic Party",
+    "highest_correct": true,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "zhipu-glm5",
+    "country": "japan",
+    "issue_code": "per104",
+    "gold_highest_ties": [
+      "Liberal Democratic Party"
+    ],
+    "gold_lowest_ties": [
+      "Japanese Communist Party"
+    ],
+    "extracted_highest": "Liberal Democratic Party",
+    "extracted_lowest": "Japanese Communist Party",
+    "highest_correct": true,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "zhipu-glm5",
+    "country": "japan",
+    "issue_code": "per408",
+    "gold_highest_ties": [
+      "Constitutional Democratic Party of Japan"
+    ],
+    "gold_lowest_ties": [
+      "Komeito",
+      "Liberal Democratic Party"
+    ],
+    "extracted_highest": "Liberal Democratic Party",
+    "extracted_lowest": "Constitutional Democratic Party of Japan",
+    "highest_correct": false,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "zhipu-glm5",
+    "country": "japan",
+    "issue_code": "per406",
+    "gold_highest_ties": [
+      "Japanese Communist Party"
+    ],
+    "gold_lowest_ties": [
+      "Constitutional Democratic Party of Japan",
+      "Komeito",
+      "Liberal Democratic Party"
+    ],
+    "extracted_highest": "Japanese Communist Party",
+    "extracted_lowest": "Komeito",
+    "highest_correct": true,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "zhipu-glm5",
+    "country": "japan",
+    "issue_code": "per303",
+    "gold_highest_ties": [
+      "Liberal Democratic Party"
+    ],
+    "gold_lowest_ties": [
+      "Japanese Communist Party"
+    ],
+    "extracted_highest": "Liberal Democratic Party",
+    "extracted_lowest": "Japanese Communist Party",
+    "highest_correct": true,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "zhipu-glm5",
+    "country": "south_korea",
+    "issue_code": "per504",
+    "gold_highest_ties": [
+      "United Future Party"
+    ],
+    "gold_lowest_ties": [
+      "Justice Party"
+    ],
+    "extracted_highest": "United Future Party",
+    "extracted_lowest": "Democratic Party of Korea",
+    "highest_correct": true,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "zhipu-glm5",
+    "country": "south_korea",
+    "issue_code": "per403",
+    "gold_highest_ties": [
+      "Justice Party"
+    ],
+    "gold_lowest_ties": [
+      "People Party"
+    ],
+    "extracted_highest": "Justice Party",
+    "extracted_lowest": "United Future Party",
+    "highest_correct": true,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "zhipu-glm5",
+    "country": "south_korea",
+    "issue_code": "per411",
+    "gold_highest_ties": [
+      "Democratic Party of Korea"
+    ],
+    "gold_lowest_ties": [
+      "People Party"
+    ],
+    "extracted_highest": "Democratic Party of Korea",
+    "extracted_lowest": "Justice Party",
+    "highest_correct": true,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "zhipu-glm5",
+    "country": "south_korea",
+    "issue_code": "per402",
+    "gold_highest_ties": [
+      "United Future Party"
+    ],
+    "gold_lowest_ties": [
+      "Justice Party"
+    ],
+    "extracted_highest": "United Future Party",
+    "extracted_lowest": "Justice Party",
+    "highest_correct": true,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "zhipu-glm5",
+    "country": "south_korea",
+    "issue_code": "per501",
+    "gold_highest_ties": [
+      "Justice Party"
+    ],
+    "gold_lowest_ties": [
+      "People Party"
+    ],
+    "extracted_highest": "United Future Party",
+    "extracted_lowest": "United Future Party",
+    "highest_correct": false,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "zhipu-glm5",
+    "country": "south_korea",
+    "issue_code": "per104",
+    "gold_highest_ties": [
+      "United Future Party"
+    ],
+    "gold_lowest_ties": [
+      "Democratic Party of Korea"
+    ],
+    "extracted_highest": "United Future Party",
+    "extracted_lowest": "Justice Party",
+    "highest_correct": true,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "zhipu-glm5",
+    "country": "south_korea",
+    "issue_code": "per704",
+    "gold_highest_ties": [
+      "United Future Party"
+    ],
+    "gold_lowest_ties": [
+      "Justice Party",
+      "Democratic Party of Korea",
+      "People Party"
+    ],
+    "extracted_highest": "People Party",
+    "extracted_lowest": "United Future Party",
+    "highest_correct": false,
+    "lowest_correct": false,
+    "manual_note": null
+  },
+  {
+    "model": "zhipu-glm5",
+    "country": "south_korea",
+    "issue_code": "per406",
+    "gold_highest_ties": [
+      "Justice Party"
+    ],
+    "gold_lowest_ties": [
+      "Democratic Party of Korea",
+      "People Party",
+      "United Future Party"
+    ],
+    "extracted_highest": "Justice Party",
+    "extracted_lowest": "United Future Party",
+    "highest_correct": true,
+    "lowest_correct": true,
+    "manual_note": null
+  },
+  {
+    "model": "zhipu-glm5",
+    "country": "south_korea",
+    "issue_code": "per303",
+    "gold_highest_ties": [
+      "People Party"
+    ],
+    "gold_lowest_ties": [
+      "United Future Party"
+    ],
+    "extracted_highest": "United Future Party",
+    "extracted_lowest": "Justice Party",
+    "highest_correct": false,
+    "lowest_correct": false,
+    "manual_note": null
+  }
+]

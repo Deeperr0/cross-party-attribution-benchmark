@@ -1,0 +1,4943 @@
+[
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per504",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per504",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per504",
+    "party": "Komeito",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per504",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per403",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per403",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per403",
+    "party": "Komeito",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per403",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per411",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per411",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per411",
+    "party": "Komeito",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per411",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per402",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per402",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per402",
+    "party": "Komeito",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per402",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per501",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per501",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per501",
+    "party": "Komeito",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per501",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per104",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": null,
+    "verdict": "AMBIGUOUS_NEEDS_MANUAL_READ"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per104",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per104",
+    "party": "Komeito",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per104",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per408",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per408",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per408",
+    "party": "Komeito",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per408",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per704",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per704",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per704",
+    "party": "Komeito",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per704",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per406",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per406",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per406",
+    "party": "Komeito",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per406",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per303",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per303",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per303",
+    "party": "Komeito",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per303",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per504",
+    "party": "Justice Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per504",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per504",
+    "party": "People Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per504",
+    "party": "United Future Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per403",
+    "party": "Justice Party",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per403",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per403",
+    "party": "People Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per403",
+    "party": "United Future Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per411",
+    "party": "Justice Party",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per411",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per411",
+    "party": "People Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per411",
+    "party": "United Future Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per402",
+    "party": "Justice Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per402",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per402",
+    "party": "People Party",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per402",
+    "party": "United Future Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per501",
+    "party": "Justice Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per501",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per501",
+    "party": "People Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per501",
+    "party": "United Future Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per104",
+    "party": "Justice Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per104",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per104",
+    "party": "People Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per104",
+    "party": "United Future Party",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per408",
+    "party": "Justice Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per408",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per408",
+    "party": "People Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per408",
+    "party": "United Future Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per704",
+    "party": "Justice Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per704",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per704",
+    "party": "People Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per704",
+    "party": "United Future Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per406",
+    "party": "Justice Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per406",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per406",
+    "party": "People Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per406",
+    "party": "United Future Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per303",
+    "party": "Justice Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per303",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per303",
+    "party": "People Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per303",
+    "party": "United Future Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per504",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per504",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": null,
+    "verdict": "AMBIGUOUS_NEEDS_MANUAL_READ"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per504",
+    "party": "Komeito",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per504",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per403",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per403",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per403",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per411",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per411",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per411",
+    "party": "Komeito",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per411",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per402",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per402",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per402",
+    "party": "Komeito",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per402",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per501",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per501",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per501",
+    "party": "Komeito",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per501",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per104",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per104",
+    "party": "Komeito",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "hallucinated"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per408",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "hallucinated"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per408",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "hallucinated"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per408",
+    "party": "Komeito",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per408",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "hallucinated"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per704",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per704",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per704",
+    "party": "Komeito",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per704",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per406",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per406",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per406",
+    "party": "Komeito",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per406",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per303",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per303",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per303",
+    "party": "Komeito",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "south_korea",
+    "issue_code": "per504",
+    "party": "Justice Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "south_korea",
+    "issue_code": "per504",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "south_korea",
+    "issue_code": "per504",
+    "party": "People Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "south_korea",
+    "issue_code": "per504",
+    "party": "United Future Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "south_korea",
+    "issue_code": "per403",
+    "party": "Justice Party",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "south_korea",
+    "issue_code": "per403",
+    "party": "United Future Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "south_korea",
+    "issue_code": "per411",
+    "party": "Justice Party",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "south_korea",
+    "issue_code": "per411",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "south_korea",
+    "issue_code": "per411",
+    "party": "People Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "south_korea",
+    "issue_code": "per411",
+    "party": "United Future Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "south_korea",
+    "issue_code": "per402",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "south_korea",
+    "issue_code": "per402",
+    "party": "People Party",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "south_korea",
+    "issue_code": "per402",
+    "party": "United Future Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "south_korea",
+    "issue_code": "per501",
+    "party": "Justice Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "south_korea",
+    "issue_code": "per501",
+    "party": "People Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "south_korea",
+    "issue_code": "per501",
+    "party": "United Future Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "south_korea",
+    "issue_code": "per104",
+    "party": "Justice Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "south_korea",
+    "issue_code": "per104",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "south_korea",
+    "issue_code": "per104",
+    "party": "People Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "south_korea",
+    "issue_code": "per104",
+    "party": "United Future Party",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "south_korea",
+    "issue_code": "per408",
+    "party": "Justice Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "hallucinated"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "south_korea",
+    "issue_code": "per408",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "south_korea",
+    "issue_code": "per408",
+    "party": "People Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "south_korea",
+    "issue_code": "per408",
+    "party": "United Future Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "south_korea",
+    "issue_code": "per704",
+    "party": "Justice Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "south_korea",
+    "issue_code": "per704",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": null,
+    "verdict": "AMBIGUOUS_NEEDS_MANUAL_READ"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "south_korea",
+    "issue_code": "per704",
+    "party": "People Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": null,
+    "verdict": "TRUNCATED_EXCLUDE"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "south_korea",
+    "issue_code": "per704",
+    "party": "United Future Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": null,
+    "verdict": "AMBIGUOUS_NEEDS_MANUAL_READ"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "south_korea",
+    "issue_code": "per406",
+    "party": "Justice Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "south_korea",
+    "issue_code": "per406",
+    "party": "People Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "south_korea",
+    "issue_code": "per406",
+    "party": "United Future Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": null,
+    "verdict": "AMBIGUOUS_NEEDS_MANUAL_READ"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "south_korea",
+    "issue_code": "per303",
+    "party": "Justice Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "south_korea",
+    "issue_code": "per303",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "south_korea",
+    "issue_code": "per303",
+    "party": "United Future Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per504",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per504",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per504",
+    "party": "Komeito",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per504",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per403",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per403",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per403",
+    "party": "Komeito",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per403",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per411",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per411",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per411",
+    "party": "Komeito",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per411",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per402",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per402",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per402",
+    "party": "Komeito",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per402",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per501",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per501",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per501",
+    "party": "Komeito",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per501",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per104",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per104",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per104",
+    "party": "Komeito",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per104",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per408",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per408",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per408",
+    "party": "Komeito",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per408",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per704",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per704",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per704",
+    "party": "Komeito",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per704",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per406",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per406",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per406",
+    "party": "Komeito",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per406",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per303",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per303",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per303",
+    "party": "Komeito",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per303",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per504",
+    "party": "Justice Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per504",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per504",
+    "party": "People Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per504",
+    "party": "United Future Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per403",
+    "party": "Justice Party",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per403",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per403",
+    "party": "People Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per403",
+    "party": "United Future Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per411",
+    "party": "Justice Party",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per411",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per411",
+    "party": "People Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per411",
+    "party": "United Future Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per402",
+    "party": "Justice Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per402",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per402",
+    "party": "People Party",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per402",
+    "party": "United Future Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per501",
+    "party": "Justice Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per501",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per501",
+    "party": "People Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per501",
+    "party": "United Future Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per104",
+    "party": "Justice Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per104",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per104",
+    "party": "People Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per104",
+    "party": "United Future Party",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per408",
+    "party": "Justice Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per408",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per408",
+    "party": "People Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per408",
+    "party": "United Future Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per704",
+    "party": "Justice Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per704",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per704",
+    "party": "People Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per704",
+    "party": "United Future Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per406",
+    "party": "Justice Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per406",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per406",
+    "party": "People Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per406",
+    "party": "United Future Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per303",
+    "party": "Justice Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per303",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per303",
+    "party": "People Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per303",
+    "party": "United Future Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per504",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per504",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per504",
+    "party": "Komeito",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per504",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per403",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per403",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per403",
+    "party": "Komeito",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per403",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per411",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per411",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per411",
+    "party": "Komeito",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per411",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per402",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per402",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per402",
+    "party": "Komeito",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per402",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per501",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per501",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per501",
+    "party": "Komeito",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per501",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per104",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per104",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per104",
+    "party": "Komeito",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per104",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per408",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per408",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per408",
+    "party": "Komeito",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per408",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per704",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per704",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per704",
+    "party": "Komeito",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per704",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per406",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per406",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per406",
+    "party": "Komeito",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per406",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per303",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per303",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per303",
+    "party": "Komeito",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per303",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per504",
+    "party": "Justice Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per504",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per504",
+    "party": "People Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per504",
+    "party": "United Future Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per403",
+    "party": "Justice Party",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per403",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per403",
+    "party": "People Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per403",
+    "party": "United Future Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per411",
+    "party": "Justice Party",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per411",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per411",
+    "party": "People Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per411",
+    "party": "United Future Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per402",
+    "party": "Justice Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per402",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per402",
+    "party": "People Party",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per402",
+    "party": "United Future Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per501",
+    "party": "Justice Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per501",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per501",
+    "party": "People Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per501",
+    "party": "United Future Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per104",
+    "party": "Justice Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per104",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per104",
+    "party": "People Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per104",
+    "party": "United Future Party",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per408",
+    "party": "Justice Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per408",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per408",
+    "party": "People Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": null,
+    "verdict": "AMBIGUOUS_NEEDS_MANUAL_READ"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per408",
+    "party": "United Future Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per704",
+    "party": "Justice Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per704",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per704",
+    "party": "People Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per704",
+    "party": "United Future Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per406",
+    "party": "Justice Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per406",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per406",
+    "party": "People Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per406",
+    "party": "United Future Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per303",
+    "party": "Justice Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per303",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per303",
+    "party": "People Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per303",
+    "party": "United Future Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per504",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per504",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per504",
+    "party": "Komeito",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per504",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per403",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per403",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per403",
+    "party": "Komeito",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per403",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per411",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per411",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per411",
+    "party": "Komeito",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per411",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per402",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per402",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per402",
+    "party": "Komeito",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per402",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per501",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per501",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per501",
+    "party": "Komeito",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per501",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per104",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "hallucinated"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per104",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per104",
+    "party": "Komeito",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per104",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per408",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "hallucinated"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per408",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per408",
+    "party": "Komeito",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per408",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per704",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per704",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per704",
+    "party": "Komeito",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per704",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per406",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per406",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per406",
+    "party": "Komeito",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per406",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per303",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per303",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per303",
+    "party": "Komeito",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per303",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per504",
+    "party": "Justice Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per504",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per504",
+    "party": "People Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per504",
+    "party": "United Future Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per403",
+    "party": "Justice Party",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per403",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per403",
+    "party": "People Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per403",
+    "party": "United Future Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "partial"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per411",
+    "party": "Justice Party",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per411",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per411",
+    "party": "People Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per411",
+    "party": "United Future Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per402",
+    "party": "Justice Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "no_knowledge",
+    "verdict": "no_knowledge"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per402",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per402",
+    "party": "People Party",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per402",
+    "party": "United Future Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per501",
+    "party": "Justice Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per501",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per501",
+    "party": "People Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "misattributed"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per501",
+    "party": "United Future Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per104",
+    "party": "Justice Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per104",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per104",
+    "party": "People Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per104",
+    "party": "United Future Party",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per408",
+    "party": "Justice Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per408",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per408",
+    "party": "People Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per408",
+    "party": "United Future Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per704",
+    "party": "Justice Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per704",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per704",
+    "party": "People Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per704",
+    "party": "United Future Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per406",
+    "party": "Justice Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per406",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per406",
+    "party": "People Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per406",
+    "party": "United Future Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per303",
+    "party": "Justice Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per303",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per303",
+    "party": "People Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per303",
+    "party": "United Future Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per504",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per504",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per504",
+    "party": "Komeito",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per504",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per403",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per403",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per403",
+    "party": "Komeito",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per403",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per411",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per411",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per411",
+    "party": "Komeito",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per411",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per402",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "hallucinated"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per402",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per402",
+    "party": "Komeito",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per402",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per501",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per501",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": null,
+    "verdict": "AMBIGUOUS_NEEDS_MANUAL_READ"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per501",
+    "party": "Komeito",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per501",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per104",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "hallucinated"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per104",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per104",
+    "party": "Komeito",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per104",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per408",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per408",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per408",
+    "party": "Komeito",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per408",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per704",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per704",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per704",
+    "party": "Komeito",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per704",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per406",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per406",
+    "party": "Komeito",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per406",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per303",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per303",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "partial"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per303",
+    "party": "Komeito",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per303",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per504",
+    "party": "Justice Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per504",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per504",
+    "party": "People Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per504",
+    "party": "United Future Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per403",
+    "party": "Justice Party",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per403",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per403",
+    "party": "People Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per403",
+    "party": "United Future Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per411",
+    "party": "Justice Party",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per411",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per411",
+    "party": "People Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per411",
+    "party": "United Future Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per402",
+    "party": "Justice Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per402",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per402",
+    "party": "People Party",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per402",
+    "party": "United Future Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per501",
+    "party": "Justice Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per501",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per501",
+    "party": "People Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per501",
+    "party": "United Future Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per104",
+    "party": "Justice Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per104",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per104",
+    "party": "People Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per104",
+    "party": "United Future Party",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per408",
+    "party": "Justice Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per408",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per408",
+    "party": "People Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per408",
+    "party": "United Future Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per704",
+    "party": "Justice Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per704",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per704",
+    "party": "People Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": null,
+    "verdict": "AMBIGUOUS_NEEDS_MANUAL_READ"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per704",
+    "party": "United Future Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "hallucinated"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per406",
+    "party": "Justice Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per406",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per406",
+    "party": "People Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per406",
+    "party": "United Future Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per303",
+    "party": "Justice Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per303",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per303",
+    "party": "People Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per303",
+    "party": "United Future Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per504",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per504",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per504",
+    "party": "Komeito",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per504",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per403",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per403",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per403",
+    "party": "Komeito",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per403",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per411",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per411",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per411",
+    "party": "Komeito",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per411",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per402",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per402",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per402",
+    "party": "Komeito",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per402",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "partial"
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per501",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per501",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per501",
+    "party": "Komeito",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per501",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "partial"
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per104",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "hallucinated"
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per104",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per104",
+    "party": "Komeito",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per104",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per408",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "hallucinated"
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per408",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "hallucinated"
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per408",
+    "party": "Komeito",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per408",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "hallucinated"
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per704",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per704",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "hallucinated"
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per704",
+    "party": "Komeito",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per704",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per406",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per406",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "hallucinated"
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per406",
+    "party": "Komeito",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per406",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per303",
+    "party": "Japanese Communist Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per303",
+    "party": "Constitutional Democratic Party of Japan",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per303",
+    "party": "Komeito",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per303",
+    "party": "Liberal Democratic Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per504",
+    "party": "Justice Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per504",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per504",
+    "party": "People Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per504",
+    "party": "United Future Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per403",
+    "party": "Justice Party",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per403",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per403",
+    "party": "People Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": null,
+    "verdict": "AMBIGUOUS_NEEDS_MANUAL_READ"
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per403",
+    "party": "United Future Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per411",
+    "party": "Justice Party",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per411",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per411",
+    "party": "People Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per411",
+    "party": "United Future Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per402",
+    "party": "Justice Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per402",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per402",
+    "party": "People Party",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per402",
+    "party": "United Future Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per501",
+    "party": "Justice Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per501",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per501",
+    "party": "People Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per501",
+    "party": "United Future Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per104",
+    "party": "Justice Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per104",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "misattributed"
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per104",
+    "party": "People Party",
+    "gold_bucket": "minor emphasis",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per104",
+    "party": "United Future Party",
+    "gold_bucket": "moderate emphasis",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per408",
+    "party": "Justice Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per408",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "hallucinated"
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per408",
+    "party": "People Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "hallucinated"
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per408",
+    "party": "United Future Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "hallucinated"
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per704",
+    "party": "Justice Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per704",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "hallucinated"
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per704",
+    "party": "People Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "hallucinated"
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per704",
+    "party": "United Future Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "moderate emphasis",
+    "verdict": "hallucinated"
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per406",
+    "party": "Justice Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per406",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per406",
+    "party": "People Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per406",
+    "party": "United Future Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per303",
+    "party": "Justice Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "not a stated priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per303",
+    "party": "Democratic Party of Korea",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": "minor emphasis",
+    "verdict": "partial"
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per303",
+    "party": "People Party",
+    "gold_bucket": "major emphasis / core priority",
+    "extracted_bucket": "major emphasis / core priority",
+    "verdict": "correct"
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per303",
+    "party": "United Future Party",
+    "gold_bucket": "not a stated priority",
+    "extracted_bucket": null,
+    "verdict": "AMBIGUOUS_NEEDS_MANUAL_READ"
+  }
+]

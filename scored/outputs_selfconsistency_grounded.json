@@ -1,0 +1,1442 @@
+[
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per504",
+    "implied_highest_group": [
+      "Constitutional Democratic Party of Japan"
+    ],
+    "implied_lowest_group": [
+      "Japanese Communist Party"
+    ],
+    "stated_highest": "Japanese Communist Party",
+    "stated_lowest": "Liberal Democratic Party",
+    "highest_agree": false,
+    "lowest_agree": false
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "japan",
+    "issue_code": "per501",
+    "implied_highest_group": [
+      "Japanese Communist Party"
+    ],
+    "implied_lowest_group": [
+      "Constitutional Democratic Party of Japan",
+      "Liberal Democratic Party"
+    ],
+    "stated_highest": "Komeito",
+    "stated_lowest": "Liberal Democratic Party",
+    "highest_agree": false,
+    "lowest_agree": true
+  },
+  {
+    "model": "anthropic-sonnet",
+    "country": "south_korea",
+    "issue_code": "per501",
+    "implied_highest_group": [
+      "Justice Party"
+    ],
+    "implied_lowest_group": [
+      "Democratic Party of Korea"
+    ],
+    "stated_highest": "Justice Party",
+    "stated_lowest": "People Party",
+    "highest_agree": true,
+    "lowest_agree": false
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per402",
+    "implied_highest_group": [
+      "Constitutional Democratic Party of Japan",
+      "Komeito",
+      "Liberal Democratic Party"
+    ],
+    "implied_lowest_group": [
+      "Japanese Communist Party"
+    ],
+    "stated_highest": null,
+    "stated_lowest": "Japanese Communist Party",
+    "highest_agree": null,
+    "lowest_agree": true
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per501",
+    "implied_highest_group": [
+      "Japanese Communist Party"
+    ],
+    "implied_lowest_group": [
+      "Constitutional Democratic Party of Japan",
+      "Komeito",
+      "Liberal Democratic Party"
+    ],
+    "stated_highest": "Komeito",
+    "stated_lowest": "Liberal Democratic Party",
+    "highest_agree": false,
+    "lowest_agree": true
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per104",
+    "implied_highest_group": [
+      "Komeito"
+    ],
+    "implied_lowest_group": [
+      "Japanese Communist Party"
+    ],
+    "stated_highest": null,
+    "stated_lowest": "Komeito",
+    "highest_agree": null,
+    "lowest_agree": false
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per704",
+    "implied_highest_group": [
+      "Constitutional Democratic Party of Japan"
+    ],
+    "implied_lowest_group": [
+      "Japanese Communist Party",
+      "Komeito",
+      "Liberal Democratic Party"
+    ],
+    "stated_highest": "Liberal Democratic Party",
+    "stated_lowest": "Liberal Democratic Party",
+    "highest_agree": false,
+    "lowest_agree": true
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "japan",
+    "issue_code": "per406",
+    "implied_highest_group": [
+      "Liberal Democratic Party"
+    ],
+    "implied_lowest_group": [
+      "Constitutional Democratic Party of Japan",
+      "Japanese Communist Party",
+      "Komeito"
+    ],
+    "stated_highest": null,
+    "stated_lowest": "Liberal Democratic Party",
+    "highest_agree": null,
+    "lowest_agree": false
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "south_korea",
+    "issue_code": "per411",
+    "implied_highest_group": [
+      "Democratic Party of Korea",
+      "Justice Party"
+    ],
+    "implied_lowest_group": [
+      "People Party",
+      "United Future Party"
+    ],
+    "stated_highest": "Democratic Party of Korea",
+    "stated_lowest": "People Party",
+    "highest_agree": true,
+    "lowest_agree": true
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "south_korea",
+    "issue_code": "per402",
+    "implied_highest_group": [
+      "Democratic Party of Korea",
+      "United Future Party"
+    ],
+    "implied_lowest_group": [
+      "People Party"
+    ],
+    "stated_highest": "United Future Party",
+    "stated_lowest": "People Party",
+    "highest_agree": true,
+    "lowest_agree": true
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "south_korea",
+    "issue_code": "per501",
+    "implied_highest_group": [
+      "Justice Party"
+    ],
+    "implied_lowest_group": [
+      "People Party"
+    ],
+    "stated_highest": "Justice Party",
+    "stated_lowest": "Democratic Party of Korea",
+    "highest_agree": true,
+    "lowest_agree": false
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "south_korea",
+    "issue_code": "per104",
+    "implied_highest_group": [
+      "United Future Party"
+    ],
+    "implied_lowest_group": [
+      "Democratic Party of Korea"
+    ],
+    "stated_highest": "Democratic Party of Korea",
+    "stated_lowest": "Justice Party",
+    "highest_agree": false,
+    "lowest_agree": false
+  },
+  {
+    "model": "cohere-command-a",
+    "country": "south_korea",
+    "issue_code": "per303",
+    "implied_highest_group": [
+      "United Future Party"
+    ],
+    "implied_lowest_group": [
+      "Democratic Party of Korea",
+      "Justice Party"
+    ],
+    "stated_highest": "People Party",
+    "stated_lowest": "Justice Party",
+    "highest_agree": false,
+    "lowest_agree": true
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per403",
+    "implied_highest_group": [
+      "Japanese Communist Party"
+    ],
+    "implied_lowest_group": [
+      "Constitutional Democratic Party of Japan",
+      "Komeito",
+      "Liberal Democratic Party"
+    ],
+    "stated_highest": "Komeito",
+    "stated_lowest": null,
+    "highest_agree": false,
+    "lowest_agree": null
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per411",
+    "implied_highest_group": [
+      "Komeito",
+      "Liberal Democratic Party"
+    ],
+    "implied_lowest_group": [
+      "Japanese Communist Party"
+    ],
+    "stated_highest": "Liberal Democratic Party",
+    "stated_lowest": "Japanese Communist Party",
+    "highest_agree": true,
+    "lowest_agree": true
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per402",
+    "implied_highest_group": [
+      "Constitutional Democratic Party of Japan",
+      "Komeito",
+      "Liberal Democratic Party"
+    ],
+    "implied_lowest_group": [
+      "Japanese Communist Party"
+    ],
+    "stated_highest": "Liberal Democratic Party",
+    "stated_lowest": "Japanese Communist Party",
+    "highest_agree": true,
+    "lowest_agree": true
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per501",
+    "implied_highest_group": [
+      "Japanese Communist Party"
+    ],
+    "implied_lowest_group": [
+      "Constitutional Democratic Party of Japan",
+      "Komeito",
+      "Liberal Democratic Party"
+    ],
+    "stated_highest": "Constitutional Democratic Party of Japan",
+    "stated_lowest": null,
+    "highest_agree": false,
+    "lowest_agree": null
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per104",
+    "implied_highest_group": [
+      "Constitutional Democratic Party of Japan",
+      "Liberal Democratic Party"
+    ],
+    "implied_lowest_group": [
+      "Japanese Communist Party",
+      "Komeito"
+    ],
+    "stated_highest": "Constitutional Democratic Party of Japan",
+    "stated_lowest": "Komeito",
+    "highest_agree": true,
+    "lowest_agree": true
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "japan",
+    "issue_code": "per303",
+    "implied_highest_group": [
+      "Constitutional Democratic Party of Japan",
+      "Komeito",
+      "Liberal Democratic Party"
+    ],
+    "implied_lowest_group": [
+      "Japanese Communist Party"
+    ],
+    "stated_highest": "Komeito",
+    "stated_lowest": "Japanese Communist Party",
+    "highest_agree": true,
+    "lowest_agree": true
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per403",
+    "implied_highest_group": [
+      "Democratic Party of Korea",
+      "Justice Party"
+    ],
+    "implied_lowest_group": [
+      "People Party"
+    ],
+    "stated_highest": "Democratic Party of Korea",
+    "stated_lowest": "People Party",
+    "highest_agree": true,
+    "lowest_agree": true
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per411",
+    "implied_highest_group": [
+      "Democratic Party of Korea"
+    ],
+    "implied_lowest_group": [
+      "Justice Party",
+      "People Party",
+      "United Future Party"
+    ],
+    "stated_highest": "Democratic Party of Korea",
+    "stated_lowest": "United Future Party",
+    "highest_agree": true,
+    "lowest_agree": true
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per402",
+    "implied_highest_group": [
+      "Democratic Party of Korea",
+      "United Future Party"
+    ],
+    "implied_lowest_group": [
+      "Justice Party"
+    ],
+    "stated_highest": "United Future Party",
+    "stated_lowest": "People Party",
+    "highest_agree": true,
+    "lowest_agree": false
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per501",
+    "implied_highest_group": [
+      "Justice Party"
+    ],
+    "implied_lowest_group": [
+      "People Party"
+    ],
+    "stated_highest": "People Party",
+    "stated_lowest": "People Party",
+    "highest_agree": false,
+    "lowest_agree": true
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per104",
+    "implied_highest_group": [
+      "People Party",
+      "United Future Party"
+    ],
+    "implied_lowest_group": [
+      "Democratic Party of Korea",
+      "Justice Party"
+    ],
+    "stated_highest": "Justice Party",
+    "stated_lowest": "Democratic Party of Korea",
+    "highest_agree": false,
+    "lowest_agree": true
+  },
+  {
+    "model": "deepseek-v3",
+    "country": "south_korea",
+    "issue_code": "per303",
+    "implied_highest_group": [
+      "People Party"
+    ],
+    "implied_lowest_group": [
+      "Democratic Party of Korea",
+      "Justice Party",
+      "United Future Party"
+    ],
+    "stated_highest": "People Party",
+    "stated_lowest": "Justice Party",
+    "highest_agree": true,
+    "lowest_agree": true
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per403",
+    "implied_highest_group": [
+      "Japanese Communist Party"
+    ],
+    "implied_lowest_group": [
+      "Constitutional Democratic Party of Japan",
+      "Komeito",
+      "Liberal Democratic Party"
+    ],
+    "stated_highest": "Japanese Communist Party",
+    "stated_lowest": "Liberal Democratic Party",
+    "highest_agree": true,
+    "lowest_agree": true
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per411",
+    "implied_highest_group": [
+      "Komeito",
+      "Liberal Democratic Party"
+    ],
+    "implied_lowest_group": [
+      "Constitutional Democratic Party of Japan",
+      "Japanese Communist Party"
+    ],
+    "stated_highest": "Liberal Democratic Party",
+    "stated_lowest": "Japanese Communist Party",
+    "highest_agree": true,
+    "lowest_agree": true
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per402",
+    "implied_highest_group": [
+      "Constitutional Democratic Party of Japan",
+      "Komeito",
+      "Liberal Democratic Party"
+    ],
+    "implied_lowest_group": [
+      "Japanese Communist Party"
+    ],
+    "stated_highest": "Liberal Democratic Party",
+    "stated_lowest": "Japanese Communist Party",
+    "highest_agree": true,
+    "lowest_agree": true
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per501",
+    "implied_highest_group": [
+      "Japanese Communist Party",
+      "Komeito"
+    ],
+    "implied_lowest_group": [
+      "Constitutional Democratic Party of Japan",
+      "Liberal Democratic Party"
+    ],
+    "stated_highest": "Komeito",
+    "stated_lowest": "Liberal Democratic Party",
+    "highest_agree": true,
+    "lowest_agree": true
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per104",
+    "implied_highest_group": [
+      "Constitutional Democratic Party of Japan",
+      "Komeito",
+      "Liberal Democratic Party"
+    ],
+    "implied_lowest_group": [
+      "Japanese Communist Party"
+    ],
+    "stated_highest": "Constitutional Democratic Party of Japan",
+    "stated_lowest": "Japanese Communist Party",
+    "highest_agree": true,
+    "lowest_agree": true
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per704",
+    "implied_highest_group": [
+      "Japanese Communist Party"
+    ],
+    "implied_lowest_group": [
+      "Constitutional Democratic Party of Japan",
+      "Komeito",
+      "Liberal Democratic Party"
+    ],
+    "stated_highest": null,
+    "stated_lowest": null,
+    "highest_agree": null,
+    "lowest_agree": null
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "japan",
+    "issue_code": "per406",
+    "implied_highest_group": [
+      "Komeito",
+      "Liberal Democratic Party"
+    ],
+    "implied_lowest_group": [
+      "Constitutional Democratic Party of Japan",
+      "Japanese Communist Party"
+    ],
+    "stated_highest": null,
+    "stated_lowest": null,
+    "highest_agree": null,
+    "lowest_agree": null
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per403",
+    "implied_highest_group": [
+      "Democratic Party of Korea",
+      "Justice Party"
+    ],
+    "implied_lowest_group": [
+      "People Party",
+      "United Future Party"
+    ],
+    "stated_highest": "People Party",
+    "stated_lowest": "People Party",
+    "highest_agree": false,
+    "lowest_agree": true
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per411",
+    "implied_highest_group": [
+      "Democratic Party of Korea",
+      "Justice Party"
+    ],
+    "implied_lowest_group": [
+      "People Party",
+      "United Future Party"
+    ],
+    "stated_highest": "Justice Party",
+    "stated_lowest": "People Party",
+    "highest_agree": true,
+    "lowest_agree": true
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per402",
+    "implied_highest_group": [
+      "Democratic Party of Korea",
+      "United Future Party"
+    ],
+    "implied_lowest_group": [
+      "Justice Party"
+    ],
+    "stated_highest": "United Future Party",
+    "stated_lowest": "Justice Party",
+    "highest_agree": true,
+    "lowest_agree": true
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per501",
+    "implied_highest_group": [
+      "Justice Party"
+    ],
+    "implied_lowest_group": [
+      "People Party"
+    ],
+    "stated_highest": "Justice Party",
+    "stated_lowest": "People Party",
+    "highest_agree": true,
+    "lowest_agree": true
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per104",
+    "implied_highest_group": [
+      "United Future Party"
+    ],
+    "implied_lowest_group": [
+      "Democratic Party of Korea",
+      "Justice Party"
+    ],
+    "stated_highest": "Democratic Party of Korea",
+    "stated_lowest": "Justice Party",
+    "highest_agree": false,
+    "lowest_agree": true
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per406",
+    "implied_highest_group": [
+      "Democratic Party of Korea",
+      "United Future Party"
+    ],
+    "implied_lowest_group": [
+      "Justice Party",
+      "People Party"
+    ],
+    "stated_highest": null,
+    "stated_lowest": null,
+    "highest_agree": null,
+    "lowest_agree": null
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "country": "south_korea",
+    "issue_code": "per303",
+    "implied_highest_group": [
+      "People Party"
+    ],
+    "implied_lowest_group": [
+      "United Future Party"
+    ],
+    "stated_highest": "People Party",
+    "stated_lowest": "Justice Party",
+    "highest_agree": true,
+    "lowest_agree": false
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per403",
+    "implied_highest_group": [
+      "Japanese Communist Party",
+      "Liberal Democratic Party"
+    ],
+    "implied_lowest_group": [
+      "Constitutional Democratic Party of Japan",
+      "Komeito"
+    ],
+    "stated_highest": "Komeito",
+    "stated_lowest": "Constitutional Democratic Party of Japan",
+    "highest_agree": false,
+    "lowest_agree": true
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per411",
+    "implied_highest_group": [
+      "Komeito",
+      "Liberal Democratic Party"
+    ],
+    "implied_lowest_group": [
+      "Constitutional Democratic Party of Japan",
+      "Japanese Communist Party"
+    ],
+    "stated_highest": "Liberal Democratic Party",
+    "stated_lowest": "Japanese Communist Party",
+    "highest_agree": true,
+    "lowest_agree": true
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per402",
+    "implied_highest_group": [
+      "Komeito"
+    ],
+    "implied_lowest_group": [
+      "Japanese Communist Party"
+    ],
+    "stated_highest": "Constitutional Democratic Party of Japan",
+    "stated_lowest": "Japanese Communist Party",
+    "highest_agree": false,
+    "lowest_agree": true
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per501",
+    "implied_highest_group": [
+      "Japanese Communist Party",
+      "Komeito"
+    ],
+    "implied_lowest_group": [
+      "Constitutional Democratic Party of Japan",
+      "Liberal Democratic Party"
+    ],
+    "stated_highest": "Komeito",
+    "stated_lowest": "Liberal Democratic Party",
+    "highest_agree": true,
+    "lowest_agree": true
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per104",
+    "implied_highest_group": [
+      "Japanese Communist Party"
+    ],
+    "implied_lowest_group": [
+      "Komeito"
+    ],
+    "stated_highest": "Liberal Democratic Party",
+    "stated_lowest": "Komeito",
+    "highest_agree": false,
+    "lowest_agree": true
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per704",
+    "implied_highest_group": [
+      "Constitutional Democratic Party of Japan"
+    ],
+    "implied_lowest_group": [
+      "Japanese Communist Party",
+      "Komeito",
+      "Liberal Democratic Party"
+    ],
+    "stated_highest": "Liberal Democratic Party",
+    "stated_lowest": null,
+    "highest_agree": false,
+    "lowest_agree": null
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per406",
+    "implied_highest_group": [
+      "Japanese Communist Party",
+      "Komeito"
+    ],
+    "implied_lowest_group": [
+      "Constitutional Democratic Party of Japan",
+      "Liberal Democratic Party"
+    ],
+    "stated_highest": null,
+    "stated_lowest": "Liberal Democratic Party",
+    "highest_agree": null,
+    "lowest_agree": true
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "japan",
+    "issue_code": "per303",
+    "implied_highest_group": [
+      "Constitutional Democratic Party of Japan",
+      "Komeito",
+      "Liberal Democratic Party"
+    ],
+    "implied_lowest_group": [
+      "Japanese Communist Party"
+    ],
+    "stated_highest": "Constitutional Democratic Party of Japan",
+    "stated_lowest": "Japanese Communist Party",
+    "highest_agree": true,
+    "lowest_agree": true
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per403",
+    "implied_highest_group": [
+      "Democratic Party of Korea",
+      "Justice Party"
+    ],
+    "implied_lowest_group": [
+      "People Party",
+      "United Future Party"
+    ],
+    "stated_highest": "Democratic Party of Korea",
+    "stated_lowest": "United Future Party",
+    "highest_agree": true,
+    "lowest_agree": true
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per411",
+    "implied_highest_group": [
+      "Democratic Party of Korea",
+      "Justice Party"
+    ],
+    "implied_lowest_group": [
+      "People Party",
+      "United Future Party"
+    ],
+    "stated_highest": "Justice Party",
+    "stated_lowest": "People Party",
+    "highest_agree": true,
+    "lowest_agree": true
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per402",
+    "implied_highest_group": [
+      "Democratic Party of Korea",
+      "United Future Party"
+    ],
+    "implied_lowest_group": [
+      "People Party"
+    ],
+    "stated_highest": "United Future Party",
+    "stated_lowest": "Justice Party",
+    "highest_agree": true,
+    "lowest_agree": false
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per501",
+    "implied_highest_group": [
+      "Justice Party",
+      "People Party"
+    ],
+    "implied_lowest_group": [
+      "United Future Party"
+    ],
+    "stated_highest": "Justice Party",
+    "stated_lowest": "People Party",
+    "highest_agree": true,
+    "lowest_agree": false
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per104",
+    "implied_highest_group": [
+      "United Future Party"
+    ],
+    "implied_lowest_group": [
+      "Democratic Party of Korea"
+    ],
+    "stated_highest": "United Future Party",
+    "stated_lowest": "Justice Party",
+    "highest_agree": true,
+    "lowest_agree": false
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per406",
+    "implied_highest_group": [
+      "People Party"
+    ],
+    "implied_lowest_group": [
+      "Democratic Party of Korea",
+      "Justice Party",
+      "United Future Party"
+    ],
+    "stated_highest": "People Party",
+    "stated_lowest": "United Future Party",
+    "highest_agree": true,
+    "lowest_agree": true
+  },
+  {
+    "model": "groq-gpt-oss-120b",
+    "country": "south_korea",
+    "issue_code": "per303",
+    "implied_highest_group": [
+      "People Party"
+    ],
+    "implied_lowest_group": [
+      "Justice Party",
+      "United Future Party"
+    ],
+    "stated_highest": "People Party",
+    "stated_lowest": "Justice Party",
+    "highest_agree": true,
+    "lowest_agree": true
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per504",
+    "implied_highest_group": [
+      "Constitutional Democratic Party of Japan",
+      "Japanese Communist Party",
+      "Liberal Democratic Party"
+    ],
+    "implied_lowest_group": [
+      "Komeito"
+    ],
+    "stated_highest": "Liberal Democratic Party",
+    "stated_lowest": "Liberal Democratic Party",
+    "highest_agree": true,
+    "lowest_agree": false
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per403",
+    "implied_highest_group": [
+      "Japanese Communist Party"
+    ],
+    "implied_lowest_group": [
+      "Constitutional Democratic Party of Japan",
+      "Komeito",
+      "Liberal Democratic Party"
+    ],
+    "stated_highest": "Komeito",
+    "stated_lowest": "Constitutional Democratic Party of Japan",
+    "highest_agree": false,
+    "lowest_agree": true
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per411",
+    "implied_highest_group": [
+      "Komeito",
+      "Liberal Democratic Party"
+    ],
+    "implied_lowest_group": [
+      "Constitutional Democratic Party of Japan",
+      "Japanese Communist Party"
+    ],
+    "stated_highest": "Liberal Democratic Party",
+    "stated_lowest": "Japanese Communist Party",
+    "highest_agree": true,
+    "lowest_agree": true
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per402",
+    "implied_highest_group": [
+      "Japanese Communist Party"
+    ],
+    "implied_lowest_group": [
+      "Constitutional Democratic Party of Japan",
+      "Komeito",
+      "Liberal Democratic Party"
+    ],
+    "stated_highest": "Constitutional Democratic Party of Japan",
+    "stated_lowest": "Japanese Communist Party",
+    "highest_agree": false,
+    "lowest_agree": false
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per501",
+    "implied_highest_group": [
+      "Japanese Communist Party",
+      "Komeito"
+    ],
+    "implied_lowest_group": [
+      "Liberal Democratic Party"
+    ],
+    "stated_highest": "Japanese Communist Party",
+    "stated_lowest": "Constitutional Democratic Party of Japan",
+    "highest_agree": true,
+    "lowest_agree": false
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per104",
+    "implied_highest_group": [
+      "Japanese Communist Party"
+    ],
+    "implied_lowest_group": [
+      "Komeito"
+    ],
+    "stated_highest": "Komeito",
+    "stated_lowest": "Komeito",
+    "highest_agree": false,
+    "lowest_agree": true
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per704",
+    "implied_highest_group": [
+      "Constitutional Democratic Party of Japan",
+      "Komeito",
+      "Liberal Democratic Party"
+    ],
+    "implied_lowest_group": [
+      "Japanese Communist Party"
+    ],
+    "stated_highest": null,
+    "stated_lowest": "Komeito",
+    "highest_agree": null,
+    "lowest_agree": false
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per406",
+    "implied_highest_group": [
+      "Japanese Communist Party"
+    ],
+    "implied_lowest_group": [
+      "Komeito",
+      "Liberal Democratic Party"
+    ],
+    "stated_highest": "Liberal Democratic Party",
+    "stated_lowest": "Liberal Democratic Party",
+    "highest_agree": false,
+    "lowest_agree": true
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "japan",
+    "issue_code": "per303",
+    "implied_highest_group": [
+      "Japanese Communist Party",
+      "Komeito",
+      "Liberal Democratic Party"
+    ],
+    "implied_lowest_group": [
+      "Constitutional Democratic Party of Japan"
+    ],
+    "stated_highest": "Constitutional Democratic Party of Japan",
+    "stated_lowest": "Japanese Communist Party",
+    "highest_agree": false,
+    "lowest_agree": false
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per504",
+    "implied_highest_group": [
+      "Democratic Party of Korea",
+      "Justice Party",
+      "People Party"
+    ],
+    "implied_lowest_group": [
+      "United Future Party"
+    ],
+    "stated_highest": "United Future Party",
+    "stated_lowest": "United Future Party",
+    "highest_agree": false,
+    "lowest_agree": true
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per403",
+    "implied_highest_group": [
+      "Democratic Party of Korea",
+      "Justice Party"
+    ],
+    "implied_lowest_group": [
+      "People Party",
+      "United Future Party"
+    ],
+    "stated_highest": "Democratic Party of Korea",
+    "stated_lowest": "United Future Party",
+    "highest_agree": true,
+    "lowest_agree": true
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per411",
+    "implied_highest_group": [
+      "Democratic Party of Korea",
+      "Justice Party"
+    ],
+    "implied_lowest_group": [
+      "People Party",
+      "United Future Party"
+    ],
+    "stated_highest": "Justice Party",
+    "stated_lowest": "People Party",
+    "highest_agree": true,
+    "lowest_agree": true
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per402",
+    "implied_highest_group": [
+      "Democratic Party of Korea",
+      "United Future Party"
+    ],
+    "implied_lowest_group": [
+      "Justice Party"
+    ],
+    "stated_highest": "United Future Party",
+    "stated_lowest": "Justice Party",
+    "highest_agree": true,
+    "lowest_agree": true
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per501",
+    "implied_highest_group": [
+      "Justice Party"
+    ],
+    "implied_lowest_group": [
+      "People Party"
+    ],
+    "stated_highest": "People Party",
+    "stated_lowest": "People Party",
+    "highest_agree": false,
+    "lowest_agree": true
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per104",
+    "implied_highest_group": [
+      "United Future Party"
+    ],
+    "implied_lowest_group": [
+      "Justice Party"
+    ],
+    "stated_highest": "Democratic Party of Korea",
+    "stated_lowest": "Justice Party",
+    "highest_agree": false,
+    "lowest_agree": true
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per704",
+    "implied_highest_group": [
+      "United Future Party"
+    ],
+    "implied_lowest_group": [
+      "Justice Party"
+    ],
+    "stated_highest": "United Future Party",
+    "stated_lowest": "United Future Party",
+    "highest_agree": true,
+    "lowest_agree": false
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per406",
+    "implied_highest_group": [
+      "People Party",
+      "United Future Party"
+    ],
+    "implied_lowest_group": [
+      "Democratic Party of Korea",
+      "Justice Party"
+    ],
+    "stated_highest": "United Future Party",
+    "stated_lowest": "United Future Party",
+    "highest_agree": true,
+    "lowest_agree": false
+  },
+  {
+    "model": "groq-gpt-oss-20b",
+    "country": "south_korea",
+    "issue_code": "per303",
+    "implied_highest_group": [
+      "People Party"
+    ],
+    "implied_lowest_group": [
+      "Democratic Party of Korea",
+      "Justice Party",
+      "United Future Party"
+    ],
+    "stated_highest": "People Party",
+    "stated_lowest": "Justice Party",
+    "highest_agree": true,
+    "lowest_agree": true
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per403",
+    "implied_highest_group": [
+      "Japanese Communist Party"
+    ],
+    "implied_lowest_group": [
+      "Constitutional Democratic Party of Japan",
+      "Komeito",
+      "Liberal Democratic Party"
+    ],
+    "stated_highest": "Japanese Communist Party",
+    "stated_lowest": "Liberal Democratic Party",
+    "highest_agree": true,
+    "lowest_agree": true
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per411",
+    "implied_highest_group": [
+      "Komeito",
+      "Liberal Democratic Party"
+    ],
+    "implied_lowest_group": [
+      "Constitutional Democratic Party of Japan",
+      "Japanese Communist Party"
+    ],
+    "stated_highest": "Liberal Democratic Party",
+    "stated_lowest": "Japanese Communist Party",
+    "highest_agree": true,
+    "lowest_agree": true
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per402",
+    "implied_highest_group": [
+      "Constitutional Democratic Party of Japan",
+      "Komeito"
+    ],
+    "implied_lowest_group": [
+      "Japanese Communist Party",
+      "Liberal Democratic Party"
+    ],
+    "stated_highest": "Komeito",
+    "stated_lowest": "Japanese Communist Party",
+    "highest_agree": true,
+    "lowest_agree": true
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per501",
+    "implied_highest_group": [
+      "Japanese Communist Party",
+      "Komeito"
+    ],
+    "implied_lowest_group": [
+      "Liberal Democratic Party"
+    ],
+    "stated_highest": "Komeito",
+    "stated_lowest": "Constitutional Democratic Party of Japan",
+    "highest_agree": true,
+    "lowest_agree": false
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per104",
+    "implied_highest_group": [
+      "Japanese Communist Party"
+    ],
+    "implied_lowest_group": [
+      "Komeito"
+    ],
+    "stated_highest": "Liberal Democratic Party",
+    "stated_lowest": "Japanese Communist Party",
+    "highest_agree": false,
+    "lowest_agree": false
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per704",
+    "implied_highest_group": [
+      "Constitutional Democratic Party of Japan"
+    ],
+    "implied_lowest_group": [
+      "Japanese Communist Party",
+      "Komeito",
+      "Liberal Democratic Party"
+    ],
+    "stated_highest": "Komeito",
+    "stated_lowest": "Japanese Communist Party",
+    "highest_agree": false,
+    "lowest_agree": true
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per406",
+    "implied_highest_group": [
+      "Constitutional Democratic Party of Japan"
+    ],
+    "implied_lowest_group": [
+      "Komeito"
+    ],
+    "stated_highest": "Liberal Democratic Party",
+    "stated_lowest": "Liberal Democratic Party",
+    "highest_agree": false,
+    "lowest_agree": false
+  },
+  {
+    "model": "mistral-large",
+    "country": "japan",
+    "issue_code": "per303",
+    "implied_highest_group": [
+      "Constitutional Democratic Party of Japan",
+      "Komeito",
+      "Liberal Democratic Party"
+    ],
+    "implied_lowest_group": [
+      "Japanese Communist Party"
+    ],
+    "stated_highest": null,
+    "stated_lowest": "Japanese Communist Party",
+    "highest_agree": null,
+    "lowest_agree": true
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per504",
+    "implied_highest_group": [
+      "Democratic Party of Korea",
+      "Justice Party",
+      "People Party"
+    ],
+    "implied_lowest_group": [
+      "United Future Party"
+    ],
+    "stated_highest": "Justice Party",
+    "stated_lowest": "United Future Party",
+    "highest_agree": true,
+    "lowest_agree": true
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per403",
+    "implied_highest_group": [
+      "Democratic Party of Korea",
+      "Justice Party"
+    ],
+    "implied_lowest_group": [
+      "United Future Party"
+    ],
+    "stated_highest": "Justice Party",
+    "stated_lowest": "People Party",
+    "highest_agree": true,
+    "lowest_agree": false
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per411",
+    "implied_highest_group": [
+      "Democratic Party of Korea",
+      "Justice Party"
+    ],
+    "implied_lowest_group": [
+      "People Party",
+      "United Future Party"
+    ],
+    "stated_highest": "Democratic Party of Korea",
+    "stated_lowest": "People Party",
+    "highest_agree": true,
+    "lowest_agree": true
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per402",
+    "implied_highest_group": [
+      "Democratic Party of Korea",
+      "United Future Party"
+    ],
+    "implied_lowest_group": [
+      "Justice Party"
+    ],
+    "stated_highest": "United Future Party",
+    "stated_lowest": "Justice Party",
+    "highest_agree": true,
+    "lowest_agree": true
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per501",
+    "implied_highest_group": [
+      "Justice Party"
+    ],
+    "implied_lowest_group": [
+      "People Party"
+    ],
+    "stated_highest": "Justice Party",
+    "stated_lowest": "People Party",
+    "highest_agree": true,
+    "lowest_agree": true
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per104",
+    "implied_highest_group": [
+      "Democratic Party of Korea",
+      "United Future Party"
+    ],
+    "implied_lowest_group": [
+      "Justice Party"
+    ],
+    "stated_highest": "United Future Party",
+    "stated_lowest": "Justice Party",
+    "highest_agree": true,
+    "lowest_agree": true
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per704",
+    "implied_highest_group": [
+      "Democratic Party of Korea",
+      "People Party",
+      "United Future Party"
+    ],
+    "implied_lowest_group": [
+      "Justice Party"
+    ],
+    "stated_highest": "People Party",
+    "stated_lowest": "Justice Party",
+    "highest_agree": true,
+    "lowest_agree": true
+  },
+  {
+    "model": "mistral-large",
+    "country": "south_korea",
+    "issue_code": "per303",
+    "implied_highest_group": [
+      "People Party"
+    ],
+    "implied_lowest_group": [
+      "Justice Party"
+    ],
+    "stated_highest": "People Party",
+    "stated_lowest": "Democratic Party of Korea",
+    "highest_agree": true,
+    "lowest_agree": false
+  }
+]
